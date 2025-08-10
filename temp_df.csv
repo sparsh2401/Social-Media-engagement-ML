@@ -1,0 +1,1001 @@
+Age,Gender,Location,Debt,Owns Property,Platform,Total Time Spent,Video Category,Engagement,Frequency,Satisfaction,Watch Reason,Watch Time,Addiction Level
+56,Male,Pakistan,True,True,Instagram,less,Pranks,high,Night,7,Procrastination,9:00 PM,high
+46,Female,Mexico,False,True,Instagram,high,Pranks,moderate,Afternoon,5,Habit,5:00 PM,moderate
+32,Female,United States,False,True,Facebook,less,Vlogs,high,Evening,4,Entertainment,2:00 PM,low
+60,Male,Barzil,True,False,YouTube,less,Vlogs,less,Night,7,Habit,9:00 PM,high
+25,Male,Pakistan,False,True,TikTok,moderate,Gaming,moderate,Morning,2,Boredom,8:00 AM,no addiction
+38,Male,Vietnam,False,False,Instagram,less,Jokes/Memes,high,Night,7,Entertainment,9:00 PM,high
+56,Male,India,False,False,TikTok,high,Vlogs,high,Morning,2,Habit,8:00 AM,no addiction
+36,Male,Barzil,False,False,Instagram,moderate,Entertainment,high,Night,7,Entertainment,9:00 PM,high
+40,Male,United States,False,False,Instagram,less,Vlogs,high,Night,7,Entertainment,9:00 PM,high
+28,Other,United States,False,False,YouTube,moderate,ASMR,high,Evening,4,Boredom,2:00 PM,low
+28,Male,Indonesia,True,True,Instagram,less,Pranks,high,Afternoon,5,Boredom,5:00 PM,moderate
+41,Other,Philippines,False,False,TikTok,moderate,Life Hacks,moderate,Evening,4,Habit,2:00 PM,low
+53,Male,Japan,False,False,Instagram,high,Gaming,high,Afternoon,5,Habit,5:00 PM,moderate
+57,Male,Indonesia,True,True,Facebook,less,Vlogs,less,Evening,4,Entertainment,2:00 PM,low
+41,Other,Vietnam,True,True,YouTube,high,Gaming,high,Evening,4,Boredom,2:00 PM,low
+20,Female,Philippines,True,True,YouTube,less,Entertainment,less,Evening,4,Entertainment,2:00 PM,low
+39,Female,Mexico,False,False,Facebook,moderate,ASMR,high,Afternoon,5,Habit,5:00 PM,moderate
+19,Female,Barzil,False,False,Facebook,less,ASMR,moderate,Evening,4,Habit,2:00 PM,low
+41,Other,Japan,False,False,Facebook,high,Pranks,less,Evening,4,Entertainment,2:00 PM,low
+61,Male,United States,True,True,Instagram,high,Vlogs,high,Morning,2,Habit,8:00 AM,no addiction
+47,Male,India,False,False,YouTube,high,Vlogs,high,Afternoon,5,Habit,5:00 PM,moderate
+55,Male,Barzil,False,False,Facebook,high,Entertainment,less,Afternoon,5,Boredom,5:00 PM,moderate
+19,Female,Indonesia,True,False,Instagram,high,Entertainment,high,Night,7,Boredom,9:00 PM,high
+38,Female,India,False,False,Facebook,less,Pranks,high,Evening,4,Habit,2:00 PM,low
+50,Male,Germany,True,True,TikTok,moderate,Jokes/Memes,high,Evening,4,Boredom,2:00 PM,low
+29,Male,Japan,True,False,TikTok,moderate,Jokes/Memes,moderate,Afternoon,5,Entertainment,5:00 PM,moderate
+39,Male,Japan,False,True,YouTube,high,Gaming,high,Evening,4,Habit,2:00 PM,low
+61,Other,Vietnam,False,False,Instagram,less,Life Hacks,high,Night,7,Habit,9:00 PM,high
+42,Female,India,True,True,TikTok,moderate,Entertainment,high,Evening,4,Boredom,2:00 PM,low
+44,Male,India,True,False,TikTok,moderate,Pranks,less,Evening,4,Entertainment,2:00 PM,low
+59,Male,United States,False,True,Instagram,moderate,Pranks,moderate,Morning,2,Habit,8:00 AM,no addiction
+45,Male,United States,True,False,Facebook,high,Jokes/Memes,high,Afternoon,5,Habit,5:00 PM,moderate
+33,Male,India,False,True,Instagram,less,Trends,moderate,Night,7,Boredom,9:00 PM,high
+32,Other,Mexico,True,False,Facebook,high,Trends,less,Evening,4,Entertainment,2:00 PM,low
+64,Female,Vietnam,False,True,TikTok,high,Entertainment,high,Evening,4,Entertainment,2:00 PM,low
+61,Other,Mexico,True,False,TikTok,high,Jokes/Memes,high,Night,7,Procrastination,9:00 PM,high
+20,Male,United States,False,True,TikTok,moderate,Entertainment,high,Night,7,Entertainment,9:00 PM,high
+54,Male,Philippines,True,False,YouTube,high,Jokes/Memes,moderate,Afternoon,5,Boredom,5:00 PM,moderate
+24,Male,Barzil,True,True,YouTube,less,Jokes/Memes,moderate,Night,7,Habit,9:00 PM,high
+38,Male,Germany,False,False,YouTube,less,ASMR,less,Afternoon,5,Boredom,5:00 PM,moderate
+26,Male,Pakistan,False,True,Instagram,high,Comedy,high,Evening,4,Boredom,2:00 PM,low
+56,Male,India,True,False,TikTok,less,ASMR,moderate,Evening,4,Habit,2:00 PM,low
+35,Other,Indonesia,True,True,TikTok,high,Life Hacks,moderate,Morning,2,Entertainment,8:00 AM,no addiction
+21,Female,Pakistan,True,False,Instagram,high,Gaming,high,Night,7,Entertainment,9:00 PM,high
+42,Other,Philippines,False,True,YouTube,less,Gaming,high,Evening,4,Boredom,2:00 PM,low
+31,Female,Pakistan,True,False,Instagram,less,Comedy,high,Evening,4,Procrastination,2:00 PM,low
+26,Male,Vietnam,False,True,YouTube,moderate,Trends,high,Afternoon,5,Procrastination,5:00 PM,moderate
+43,Male,Japan,True,True,TikTok,less,Pranks,high,Night,7,Entertainment,9:00 PM,high
+19,Female,India,False,True,Facebook,less,Trends,moderate,Evening,4,Boredom,2:00 PM,low
+37,Male,United States,True,True,YouTube,high,Life Hacks,moderate,Afternoon,5,Procrastination,5:00 PM,moderate
+45,Female,United States,False,False,TikTok,high,Entertainment,high,Afternoon,5,Entertainment,5:00 PM,moderate
+64,Other,Mexico,True,True,TikTok,less,Entertainment,high,Evening,4,Entertainment,2:00 PM,low
+24,Male,Germany,False,False,Facebook,less,Pranks,less,Evening,4,Boredom,2:00 PM,low
+61,Male,Vietnam,True,False,TikTok,less,Trends,high,Afternoon,5,Procrastination,5:00 PM,moderate
+25,Other,India,False,False,TikTok,high,Life Hacks,less,Evening,4,Habit,2:00 PM,low
+64,Male,Japan,False,False,YouTube,moderate,Life Hacks,less,Night,7,Boredom,9:00 PM,high
+52,Male,Indonesia,True,False,YouTube,high,Jokes/Memes,moderate,Afternoon,5,Entertainment,5:00 PM,moderate
+31,Male,United States,True,True,Facebook,high,Entertainment,less,Afternoon,5,Habit,5:00 PM,moderate
+34,Male,Vietnam,True,False,Facebook,high,Vlogs,high,Night,7,Entertainment,9:00 PM,high
+53,Male,Japan,True,False,TikTok,high,Life Hacks,high,Night,7,Habit,9:00 PM,high
+57,Female,Germany,True,True,YouTube,high,Entertainment,moderate,Afternoon,5,Entertainment,5:00 PM,moderate
+21,Other,United States,True,True,Facebook,moderate,Jokes/Memes,high,Afternoon,5,Procrastination,5:00 PM,moderate
+19,Male,United States,False,True,Facebook,less,Entertainment,high,Evening,4,Habit,2:00 PM,low
+23,Male,Vietnam,False,False,Instagram,moderate,ASMR,high,Evening,4,Boredom,2:00 PM,low
+59,Male,United States,True,False,Facebook,less,Life Hacks,moderate,Afternoon,5,Entertainment,5:00 PM,moderate
+21,Other,India,False,False,TikTok,high,Life Hacks,moderate,Afternoon,5,Habit,5:00 PM,moderate
+46,Other,India,False,True,YouTube,high,Gaming,moderate,Evening,4,Boredom,2:00 PM,low
+35,Male,Mexico,False,False,Facebook,high,Trends,high,Evening,4,Boredom,2:00 PM,low
+43,Male,Vietnam,True,False,Instagram,less,Life Hacks,high,Night,7,Habit,9:00 PM,high
+61,Female,Mexico,False,False,YouTube,high,Gaming,less,Evening,4,Habit,2:00 PM,low
+51,Female,Vietnam,False,False,Facebook,high,Pranks,high,Afternoon,5,Entertainment,5:00 PM,moderate
+27,Male,Indonesia,True,True,Instagram,moderate,Life Hacks,high,Night,7,Boredom,9:00 PM,high
+53,Male,Vietnam,True,False,Facebook,high,Comedy,high,Evening,4,Entertainment,2:00 PM,low
+31,Female,Germany,False,True,YouTube,high,Jokes/Memes,less,Night,7,Boredom,9:00 PM,high
+48,Other,Philippines,True,False,YouTube,moderate,Jokes/Memes,moderate,Night,7,Procrastination,9:00 PM,high
+32,Male,United States,False,True,YouTube,high,Jokes/Memes,less,Night,7,Habit,9:00 PM,high
+25,Female,India,False,False,TikTok,high,Pranks,high,Night,7,Procrastination,9:00 PM,high
+31,Male,India,False,True,Facebook,high,Life Hacks,high,Afternoon,5,Procrastination,5:00 PM,moderate
+40,Other,Japan,False,False,TikTok,high,Vlogs,moderate,Evening,4,Boredom,2:00 PM,low
+57,Male,United States,False,True,YouTube,moderate,Jokes/Memes,high,Night,7,Habit,9:00 PM,high
+38,Male,United States,False,False,Instagram,high,Gaming,less,Evening,4,Habit,2:00 PM,low
+33,Male,Pakistan,True,True,Facebook,high,Jokes/Memes,less,Afternoon,5,Entertainment,5:00 PM,moderate
+62,Male,Philippines,False,False,TikTok,high,Pranks,high,Evening,4,Entertainment,2:00 PM,low
+35,Male,India,False,True,Facebook,less,Entertainment,moderate,Afternoon,5,Boredom,5:00 PM,moderate
+64,Male,Barzil,True,False,Instagram,moderate,Jokes/Memes,high,Night,7,Boredom,9:00 PM,high
+41,Other,India,True,True,TikTok,high,Life Hacks,moderate,Night,7,Entertainment,9:00 PM,high
+43,Female,Indonesia,False,False,YouTube,moderate,Trends,moderate,Night,7,Habit,9:00 PM,high
+42,Other,United States,True,True,TikTok,moderate,Life Hacks,high,Night,7,Entertainment,9:00 PM,high
+62,Female,United States,False,False,Facebook,less,Jokes/Memes,moderate,Night,7,Boredom,9:00 PM,high
+58,Female,Germany,False,True,Facebook,less,Jokes/Memes,high,Night,7,Entertainment,9:00 PM,high
+46,Male,United States,True,False,Facebook,moderate,Jokes/Memes,less,Afternoon,5,Boredom,5:00 PM,moderate
+32,Male,India,True,True,Facebook,moderate,Jokes/Memes,moderate,Night,7,Boredom,9:00 PM,high
+62,Female,India,True,False,YouTube,moderate,Trends,less,Night,7,Habit,9:00 PM,high
+18,Male,India,True,True,TikTok,less,Vlogs,high,Night,7,Boredom,9:00 PM,high
+42,Other,Vietnam,True,True,YouTube,high,Life Hacks,high,Evening,4,Habit,2:00 PM,low
+24,Other,Pakistan,True,True,YouTube,less,Jokes/Memes,high,Morning,2,Habit,8:00 AM,no addiction
+26,Male,United States,True,True,YouTube,moderate,ASMR,high,Evening,4,Boredom,2:00 PM,low
+41,Female,United States,True,False,Facebook,less,Jokes/Memes,high,Afternoon,5,Entertainment,5:00 PM,moderate
+18,Male,India,True,True,Facebook,less,ASMR,less,Night,7,Entertainment,9:00 PM,high
+61,Female,Mexico,False,False,Facebook,high,Pranks,high,Evening,4,Boredom,2:00 PM,low
+25,Male,Germany,False,False,TikTok,moderate,Vlogs,less,Afternoon,5,Boredom,5:00 PM,moderate
+41,Male,Germany,True,False,Instagram,less,Jokes/Memes,less,Night,7,Boredom,9:00 PM,high
+28,Male,India,True,False,Facebook,high,Jokes/Memes,less,Night,7,Entertainment,9:00 PM,high
+34,Female,Japan,True,False,TikTok,high,Gaming,less,Night,7,Habit,9:00 PM,high
+25,Female,India,True,True,Facebook,high,Gaming,less,Night,7,Habit,9:00 PM,high
+52,Male,Philippines,False,False,Facebook,moderate,Comedy,moderate,Evening,4,Entertainment,2:00 PM,low
+52,Female,Japan,True,False,YouTube,less,Jokes/Memes,less,Night,7,Habit,9:00 PM,high
+50,Male,Barzil,True,True,YouTube,less,Pranks,high,Night,7,Entertainment,9:00 PM,high
+22,Male,Mexico,True,True,YouTube,high,Gaming,less,Evening,4,Entertainment,2:00 PM,low
+59,Male,Germany,True,True,TikTok,moderate,Jokes/Memes,high,Night,7,Procrastination,9:00 PM,high
+56,Female,India,True,False,Instagram,less,Jokes/Memes,high,Night,7,Entertainment,9:00 PM,high
+58,Female,Barzil,True,False,Instagram,moderate,Pranks,less,Evening,4,Habit,2:00 PM,low
+45,Female,Vietnam,False,False,TikTok,high,Jokes/Memes,moderate,Evening,4,Procrastination,2:00 PM,low
+24,Male,Indonesia,True,True,Facebook,high,Jokes/Memes,high,Evening,4,Boredom,2:00 PM,low
+26,Male,United States,True,False,TikTok,high,Entertainment,less,Night,7,Habit,9:00 PM,high
+25,Male,Barzil,False,False,Facebook,high,Life Hacks,moderate,Night,7,Boredom,9:00 PM,high
+29,Female,Philippines,True,False,TikTok,moderate,Entertainment,high,Evening,4,Habit,2:00 PM,low
+51,Male,United States,True,False,TikTok,moderate,Life Hacks,moderate,Evening,4,Habit,2:00 PM,low
+50,Other,India,False,True,TikTok,high,Life Hacks,less,Evening,4,Habit,2:00 PM,low
+40,Female,Pakistan,False,False,Instagram,moderate,Gaming,less,Night,7,Habit,9:00 PM,high
+41,Other,Vietnam,True,True,YouTube,less,Life Hacks,high,Night,7,Habit,9:00 PM,high
+54,Other,Barzil,True,False,TikTok,less,Gaming,less,Night,7,Habit,9:00 PM,high
+52,Female,Mexico,False,True,Instagram,high,Trends,high,Evening,4,Habit,2:00 PM,low
+61,Other,India,True,False,YouTube,less,Comedy,moderate,Evening,4,Boredom,2:00 PM,low
+57,Male,United States,True,True,YouTube,moderate,ASMR,high,Night,7,Boredom,9:00 PM,high
+39,Female,India,True,False,TikTok,moderate,Gaming,less,Evening,4,Entertainment,2:00 PM,low
+44,Female,Barzil,False,True,Facebook,moderate,Pranks,less,Night,7,Habit,9:00 PM,high
+52,Male,Mexico,True,False,Facebook,moderate,Pranks,less,Night,7,Boredom,9:00 PM,high
+18,Other,Philippines,False,True,Facebook,moderate,Vlogs,high,Afternoon,5,Entertainment,5:00 PM,moderate
+52,Female,Indonesia,False,False,TikTok,moderate,Jokes/Memes,less,Evening,4,Habit,2:00 PM,low
+54,Male,United States,False,True,Facebook,moderate,Vlogs,high,Evening,4,Habit,2:00 PM,low
+64,Male,Indonesia,False,False,Instagram,moderate,Life Hacks,less,Night,7,Procrastination,9:00 PM,high
+31,Female,India,True,True,Instagram,less,ASMR,moderate,Night,7,Entertainment,9:00 PM,high
+20,Male,India,False,False,Instagram,moderate,Vlogs,less,Afternoon,5,Entertainment,5:00 PM,moderate
+18,Female,Barzil,False,True,Instagram,moderate,Entertainment,less,Afternoon,5,Procrastination,5:00 PM,moderate
+22,Female,Barzil,False,False,YouTube,less,Life Hacks,moderate,Evening,4,Entertainment,2:00 PM,low
+43,Female,Pakistan,True,True,Instagram,high,Trends,high,Night,7,Boredom,9:00 PM,high
+31,Female,Germany,False,False,Facebook,high,Entertainment,moderate,Night,7,Entertainment,9:00 PM,high
+56,Male,Pakistan,False,True,TikTok,moderate,Life Hacks,high,Morning,2,Boredom,8:00 AM,no addiction
+44,Male,India,False,False,Facebook,moderate,Life Hacks,moderate,Afternoon,5,Procrastination,5:00 PM,moderate
+26,Female,India,False,True,Instagram,high,Jokes/Memes,high,Afternoon,5,Habit,5:00 PM,moderate
+32,Male,India,True,True,YouTube,less,Gaming,less,Evening,4,Procrastination,2:00 PM,low
+32,Female,Pakistan,False,True,Instagram,moderate,Life Hacks,high,Evening,4,Habit,2:00 PM,low
+43,Female,Mexico,True,True,TikTok,less,Pranks,less,Night,7,Entertainment,9:00 PM,high
+59,Male,Mexico,True,False,Facebook,high,Life Hacks,moderate,Morning,2,Entertainment,8:00 AM,no addiction
+30,Other,India,False,True,TikTok,less,Life Hacks,high,Evening,4,Habit,2:00 PM,low
+49,Male,Vietnam,False,False,TikTok,moderate,Life Hacks,moderate,Night,7,Procrastination,9:00 PM,high
+56,Male,Germany,True,False,TikTok,less,Jokes/Memes,high,Morning,2,Procrastination,8:00 AM,no addiction
+49,Other,Mexico,True,False,Facebook,high,Vlogs,less,Evening,4,Boredom,2:00 PM,low
+21,Male,Japan,False,False,Instagram,less,Trends,moderate,Evening,4,Habit,2:00 PM,low
+47,Other,United States,True,False,TikTok,less,Entertainment,less,Afternoon,5,Habit,5:00 PM,moderate
+54,Male,India,True,True,Facebook,less,Gaming,less,Night,7,Habit,9:00 PM,high
+40,Male,India,True,False,YouTube,moderate,Life Hacks,less,Evening,4,Entertainment,2:00 PM,low
+56,Other,India,False,False,Facebook,moderate,Trends,high,Afternoon,5,Habit,5:00 PM,moderate
+62,Male,United States,False,True,YouTube,moderate,Entertainment,moderate,Night,7,Boredom,9:00 PM,high
+32,Male,United States,True,True,Facebook,less,Vlogs,less,Afternoon,5,Boredom,5:00 PM,moderate
+60,Female,Japan,True,True,Instagram,high,Pranks,less,Night,7,Boredom,9:00 PM,high
+46,Other,Pakistan,True,False,TikTok,less,Pranks,high,Night,7,Boredom,9:00 PM,high
+53,Female,Vietnam,True,False,Instagram,moderate,Jokes/Memes,moderate,Evening,4,Procrastination,2:00 PM,low
+30,Other,India,True,False,Facebook,high,Jokes/Memes,moderate,Evening,4,Entertainment,2:00 PM,low
+49,Male,India,False,True,TikTok,less,Life Hacks,high,Afternoon,5,Entertainment,5:00 PM,moderate
+24,Male,Indonesia,True,False,YouTube,less,Trends,less,Afternoon,5,Habit,5:00 PM,moderate
+39,Other,Japan,True,False,Facebook,less,Gaming,high,Night,7,Boredom,9:00 PM,high
+45,Male,India,False,False,TikTok,moderate,Entertainment,moderate,Evening,4,Entertainment,2:00 PM,low
+19,Male,Japan,False,False,YouTube,high,Jokes/Memes,less,Evening,4,Boredom,2:00 PM,low
+59,Male,Japan,False,True,YouTube,high,Entertainment,high,Afternoon,5,Entertainment,5:00 PM,moderate
+62,Male,Philippines,False,False,Instagram,high,Gaming,moderate,Evening,4,Habit,2:00 PM,low
+23,Male,Japan,True,True,Facebook,high,Gaming,moderate,Evening,4,Entertainment,2:00 PM,low
+45,Female,United States,True,False,YouTube,high,Trends,less,Afternoon,5,Habit,5:00 PM,moderate
+45,Female,Philippines,True,True,TikTok,less,Trends,less,Afternoon,5,Entertainment,5:00 PM,moderate
+61,Male,Japan,True,False,YouTube,less,Life Hacks,moderate,Afternoon,5,Habit,5:00 PM,moderate
+61,Male,Germany,False,True,YouTube,moderate,Jokes/Memes,high,Night,7,Entertainment,9:00 PM,high
+37,Female,United States,False,False,Instagram,high,Entertainment,less,Night,7,Habit,9:00 PM,high
+47,Male,India,True,True,Instagram,moderate,Gaming,high,Evening,4,Entertainment,2:00 PM,low
+28,Male,Philippines,True,False,TikTok,moderate,ASMR,high,Night,7,Entertainment,9:00 PM,high
+45,Female,Indonesia,False,True,Instagram,less,Life Hacks,less,Evening,4,Habit,2:00 PM,low
+42,Male,United States,False,False,YouTube,moderate,ASMR,less,Morning,2,Boredom,8:00 AM,no addiction
+56,Female,Indonesia,True,True,YouTube,moderate,Trends,high,Evening,4,Boredom,2:00 PM,low
+50,Male,India,False,False,Instagram,moderate,Trends,less,Afternoon,5,Habit,5:00 PM,moderate
+18,Other,Indonesia,True,True,YouTube,high,Vlogs,less,Afternoon,5,Entertainment,5:00 PM,moderate
+44,Female,India,False,False,YouTube,high,Life Hacks,moderate,Evening,4,Procrastination,2:00 PM,low
+30,Female,India,False,True,TikTok,high,Life Hacks,less,Evening,4,Procrastination,2:00 PM,low
+58,Male,Philippines,False,False,Instagram,high,Jokes/Memes,high,Evening,4,Habit,2:00 PM,low
+20,Female,Japan,True,True,YouTube,high,ASMR,less,Evening,4,Habit,2:00 PM,low
+56,Male,Barzil,True,False,Instagram,high,Pranks,moderate,Night,7,Entertainment,9:00 PM,high
+23,Male,India,False,True,TikTok,less,Jokes/Memes,moderate,Evening,4,Entertainment,2:00 PM,low
+25,Male,Philippines,False,False,Instagram,moderate,Entertainment,moderate,Afternoon,5,Procrastination,5:00 PM,moderate
+44,Male,Germany,True,True,YouTube,less,Life Hacks,less,Morning,2,Procrastination,8:00 AM,no addiction
+26,Female,India,True,True,Instagram,moderate,Entertainment,less,Morning,2,Entertainment,8:00 AM,no addiction
+54,Male,Mexico,False,True,YouTube,less,Pranks,high,Morning,2,Habit,8:00 AM,no addiction
+50,Male,Indonesia,True,True,YouTube,moderate,Entertainment,moderate,Evening,4,Boredom,2:00 PM,low
+59,Other,Barzil,False,False,YouTube,high,Life Hacks,high,Evening,4,Entertainment,2:00 PM,low
+61,Male,Japan,False,True,TikTok,high,Jokes/Memes,moderate,Evening,4,Habit,2:00 PM,low
+41,Female,United States,True,True,Instagram,less,Vlogs,less,Afternoon,5,Entertainment,5:00 PM,moderate
+32,Other,India,True,True,TikTok,less,Trends,high,Evening,4,Habit,2:00 PM,low
+49,Male,Vietnam,True,False,Instagram,moderate,Life Hacks,less,Evening,4,Habit,2:00 PM,low
+49,Male,Pakistan,False,True,TikTok,less,Jokes/Memes,less,Evening,4,Habit,2:00 PM,low
+41,Male,Barzil,True,False,Facebook,less,Gaming,moderate,Night,7,Habit,9:00 PM,high
+58,Male,United States,True,False,YouTube,moderate,Pranks,less,Morning,2,Boredom,8:00 AM,no addiction
+29,Male,India,True,False,YouTube,high,Entertainment,moderate,Evening,4,Boredom,2:00 PM,low
+56,Other,Vietnam,True,False,TikTok,less,Pranks,high,Evening,4,Entertainment,2:00 PM,low
+19,Female,Philippines,False,False,Facebook,moderate,Jokes/Memes,moderate,Morning,2,Habit,8:00 AM,no addiction
+20,Female,Japan,True,True,YouTube,less,Trends,less,Evening,4,Habit,2:00 PM,low
+54,Female,India,False,False,Instagram,less,Gaming,less,Night,7,Habit,9:00 PM,high
+34,Male,India,True,False,TikTok,moderate,Trends,moderate,Night,7,Boredom,9:00 PM,high
+19,Male,India,False,True,YouTube,moderate,Gaming,moderate,Evening,4,Boredom,2:00 PM,low
+19,Male,India,False,True,YouTube,less,Life Hacks,less,Night,7,Habit,8:30 PM,high
+45,Female,Vietnam,False,True,TikTok,high,Comedy,less,Evening,4,Habit,3:45 PM,low
+40,Male,Indonesia,False,False,TikTok,less,Entertainment,less,Night,7,Habit,8:30 PM,high
+54,Male,Pakistan,False,False,Instagram,high,Entertainment,less,Evening,4,Procrastination,3:45 PM,low
+49,Female,Germany,False,False,Instagram,less,Gaming,moderate,Evening,4,Habit,3:45 PM,low
+50,Other,India,True,True,YouTube,moderate,Vlogs,moderate,Afternoon,5,Habit,6:05 PM,moderate
+18,Other,Mexico,False,False,YouTube,moderate,Trends,high,Evening,4,Boredom,3:45 PM,low
+36,Female,Pakistan,False,False,TikTok,moderate,Life Hacks,high,Evening,4,Habit,3:45 PM,low
+19,Male,India,True,False,YouTube,moderate,Jokes/Memes,moderate,Evening,4,Boredom,3:45 PM,low
+61,Male,Japan,False,False,YouTube,less,Entertainment,moderate,Night,7,Habit,8:30 PM,high
+43,Male,India,True,True,TikTok,high,Gaming,less,Evening,4,Entertainment,3:45 PM,low
+49,Male,United States,True,False,YouTube,less,Life Hacks,less,Morning,2,Procrastination,9:15 AM,no addiction
+23,Other,Pakistan,False,True,YouTube,less,Comedy,less,Night,7,Procrastination,8:30 PM,high
+49,Male,Mexico,False,False,Facebook,high,Pranks,high,Night,7,Procrastination,8:30 PM,high
+21,Male,India,True,True,Instagram,less,Trends,moderate,Night,7,Boredom,8:30 PM,high
+28,Male,Indonesia,True,False,TikTok,less,Life Hacks,moderate,Evening,4,Entertainment,3:45 PM,low
+34,Other,Vietnam,True,True,Facebook,less,Vlogs,moderate,Afternoon,5,Entertainment,6:05 PM,moderate
+55,Other,United States,False,False,Instagram,high,ASMR,high,Evening,4,Habit,3:45 PM,low
+41,Male,Philippines,False,True,Instagram,high,Life Hacks,moderate,Evening,4,Boredom,3:45 PM,low
+22,Male,Pakistan,True,False,Instagram,less,Pranks,moderate,Evening,4,Boredom,3:45 PM,low
+51,Male,Japan,True,True,Facebook,moderate,Entertainment,high,Night,7,Habit,8:30 PM,high
+23,Male,Vietnam,True,False,Facebook,less,Trends,less,Night,7,Habit,8:30 PM,high
+39,Other,United States,False,True,Instagram,less,Gaming,high,Evening,4,Habit,3:45 PM,low
+28,Male,India,False,False,YouTube,high,Life Hacks,moderate,Night,7,Entertainment,8:30 PM,high
+33,Female,United States,False,True,YouTube,less,Pranks,moderate,Night,7,Boredom,8:30 PM,high
+50,Male,Vietnam,True,False,Facebook,moderate,Life Hacks,moderate,Night,7,Entertainment,8:30 PM,high
+26,Other,United States,True,True,Facebook,moderate,Life Hacks,moderate,Night,7,Boredom,8:30 PM,high
+23,Male,Germany,True,False,Facebook,high,ASMR,moderate,Afternoon,5,Entertainment,6:05 PM,moderate
+33,Female,Barzil,False,True,Instagram,less,Trends,less,Evening,4,Boredom,3:45 PM,low
+46,Female,Indonesia,True,False,YouTube,high,Life Hacks,high,Evening,4,Procrastination,3:45 PM,low
+20,Other,India,False,True,Facebook,less,Jokes/Memes,high,Morning,2,Habit,9:15 AM,no addiction
+37,Female,Vietnam,True,False,Facebook,moderate,Trends,high,Night,7,Habit,8:30 PM,high
+53,Male,Germany,True,True,TikTok,less,Jokes/Memes,less,Evening,4,Habit,3:45 PM,low
+36,Female,Germany,False,True,Instagram,less,Jokes/Memes,moderate,Afternoon,5,Procrastination,6:05 PM,moderate
+43,Other,Philippines,False,True,TikTok,high,Life Hacks,less,Afternoon,5,Entertainment,6:05 PM,moderate
+20,Other,United States,True,True,YouTube,high,Life Hacks,high,Evening,4,Entertainment,3:45 PM,low
+36,Male,Barzil,True,False,TikTok,moderate,Life Hacks,moderate,Night,7,Procrastination,8:30 PM,high
+37,Female,Germany,True,True,TikTok,high,ASMR,less,Night,7,Habit,8:30 PM,high
+49,Male,Barzil,True,False,TikTok,moderate,Jokes/Memes,less,Evening,4,Procrastination,3:45 PM,low
+24,Male,United States,False,False,Instagram,high,Life Hacks,moderate,Night,7,Habit,8:30 PM,high
+58,Male,Vietnam,True,False,YouTube,moderate,Jokes/Memes,less,Morning,2,Entertainment,9:15 AM,no addiction
+50,Female,Japan,True,False,TikTok,high,Life Hacks,less,Evening,4,Habit,3:45 PM,low
+57,Female,United States,False,False,Instagram,moderate,Jokes/Memes,less,Afternoon,5,Habit,6:05 PM,moderate
+56,Male,Germany,True,True,YouTube,less,Trends,moderate,Afternoon,5,Procrastination,6:05 PM,moderate
+35,Other,India,True,False,Facebook,moderate,Gaming,moderate,Afternoon,5,Entertainment,6:05 PM,moderate
+57,Female,United States,True,False,TikTok,moderate,Entertainment,less,Night,7,Habit,8:30 PM,high
+18,Female,United States,True,True,YouTube,moderate,Comedy,less,Evening,4,Habit,3:45 PM,low
+28,Male,Philippines,True,True,TikTok,less,Gaming,high,Afternoon,5,Habit,6:05 PM,moderate
+45,Female,Indonesia,True,True,Facebook,less,Pranks,high,Afternoon,5,Procrastination,6:05 PM,moderate
+42,Female,India,False,False,YouTube,high,Vlogs,less,Afternoon,5,Habit,6:05 PM,moderate
+40,Male,India,False,False,Instagram,less,Life Hacks,high,Night,7,Procrastination,8:30 PM,high
+48,Male,Philippines,True,False,YouTube,moderate,Life Hacks,high,Evening,4,Boredom,3:45 PM,low
+47,Male,United States,True,True,Instagram,moderate,ASMR,high,Evening,4,Habit,3:45 PM,low
+59,Male,United States,False,False,YouTube,moderate,Pranks,high,Evening,4,Boredom,3:45 PM,low
+52,Male,United States,False,False,Instagram,less,Entertainment,high,Evening,4,Habit,3:45 PM,low
+24,Male,Germany,True,False,Facebook,moderate,Pranks,moderate,Morning,2,Boredom,9:15 AM,no addiction
+33,Other,Philippines,True,False,Facebook,less,Life Hacks,high,Evening,4,Entertainment,3:45 PM,low
+43,Male,Vietnam,True,True,Facebook,moderate,Entertainment,moderate,Morning,2,Entertainment,9:15 AM,no addiction
+19,Male,India,False,False,YouTube,high,Vlogs,high,Night,7,Procrastination,8:30 PM,high
+18,Male,Mexico,True,True,Facebook,moderate,Pranks,moderate,Afternoon,5,Habit,6:05 PM,moderate
+29,Male,Pakistan,False,False,TikTok,high,Jokes/Memes,less,Evening,4,Habit,3:45 PM,low
+22,Male,United States,True,True,Facebook,high,Vlogs,high,Night,7,Habit,8:30 PM,high
+54,Female,India,True,False,Instagram,moderate,Pranks,high,Night,7,Habit,8:30 PM,high
+49,Female,India,True,True,Instagram,less,Comedy,high,Evening,4,Boredom,3:45 PM,low
+26,Male,India,True,False,Instagram,less,ASMR,moderate,Afternoon,5,Entertainment,6:05 PM,moderate
+58,Other,Philippines,True,True,YouTube,less,Gaming,less,Afternoon,5,Habit,6:05 PM,moderate
+52,Other,United States,True,False,TikTok,moderate,Pranks,moderate,Evening,4,Boredom,3:45 PM,low
+36,Male,Pakistan,False,True,Facebook,less,Comedy,high,Evening,4,Entertainment,3:45 PM,low
+33,Female,Japan,True,False,TikTok,high,Jokes/Memes,moderate,Evening,4,Entertainment,3:45 PM,low
+20,Female,Germany,False,True,TikTok,less,Pranks,moderate,Night,7,Entertainment,8:30 PM,high
+37,Male,Barzil,True,True,Instagram,high,Trends,high,Night,7,Entertainment,8:30 PM,high
+41,Other,Vietnam,True,True,Instagram,moderate,Vlogs,moderate,Afternoon,5,Entertainment,6:05 PM,moderate
+50,Male,Pakistan,False,True,Instagram,less,Gaming,high,Night,7,Habit,8:30 PM,high
+41,Other,Barzil,True,True,YouTube,moderate,Vlogs,less,Evening,4,Habit,3:45 PM,low
+28,Female,Philippines,True,True,TikTok,less,Pranks,moderate,Morning,2,Boredom,9:15 AM,no addiction
+25,Female,Barzil,False,True,TikTok,moderate,Vlogs,high,Evening,4,Boredom,3:45 PM,low
+53,Male,Mexico,True,True,YouTube,moderate,Gaming,high,Evening,4,Procrastination,3:45 PM,low
+55,Male,India,False,True,YouTube,moderate,Trends,high,Evening,4,Boredom,3:45 PM,low
+57,Male,Pakistan,True,True,YouTube,less,Entertainment,high,Afternoon,5,Habit,6:05 PM,moderate
+37,Male,Philippines,True,True,TikTok,high,Vlogs,moderate,Evening,4,Entertainment,3:45 PM,low
+52,Male,Pakistan,False,False,TikTok,less,Vlogs,moderate,Evening,4,Habit,3:45 PM,low
+42,Female,Mexico,True,True,Instagram,less,Jokes/Memes,high,Night,7,Procrastination,8:30 PM,high
+52,Male,United States,True,False,Instagram,less,Pranks,less,Night,7,Habit,8:30 PM,high
+42,Female,United States,False,True,TikTok,less,Life Hacks,moderate,Afternoon,5,Entertainment,6:05 PM,moderate
+46,Female,United States,True,False,Instagram,moderate,ASMR,high,Evening,4,Habit,3:45 PM,low
+35,Female,Indonesia,False,True,YouTube,high,Jokes/Memes,moderate,Night,7,Entertainment,8:30 PM,high
+63,Male,Barzil,True,False,Facebook,less,Trends,less,Evening,4,Habit,3:45 PM,low
+35,Male,Indonesia,False,True,Instagram,less,Jokes/Memes,high,Evening,4,Boredom,3:45 PM,low
+19,Female,India,True,False,TikTok,high,Jokes/Memes,less,Afternoon,5,Habit,6:05 PM,moderate
+52,Male,Vietnam,False,True,Instagram,moderate,Life Hacks,high,Afternoon,5,Habit,6:05 PM,moderate
+33,Female,Mexico,True,False,Instagram,less,Life Hacks,high,Night,7,Entertainment,8:30 PM,high
+58,Female,Philippines,True,True,Instagram,less,Trends,less,Evening,4,Boredom,3:45 PM,low
+53,Male,Pakistan,False,True,Facebook,less,Pranks,less,Morning,2,Boredom,9:15 AM,no addiction
+50,Female,Germany,False,True,YouTube,moderate,Entertainment,high,Afternoon,5,Habit,6:05 PM,moderate
+21,Female,Philippines,False,True,TikTok,moderate,Vlogs,moderate,Afternoon,5,Entertainment,6:05 PM,moderate
+50,Male,Barzil,False,False,Facebook,moderate,Vlogs,high,Afternoon,5,Habit,6:05 PM,moderate
+31,Male,Indonesia,False,True,TikTok,high,Jokes/Memes,high,Afternoon,5,Boredom,6:05 PM,moderate
+38,Other,Indonesia,True,False,TikTok,moderate,Gaming,high,Evening,4,Boredom,3:45 PM,low
+37,Other,United States,True,True,TikTok,moderate,Jokes/Memes,high,Evening,4,Boredom,3:45 PM,low
+25,Male,Indonesia,True,False,Facebook,moderate,Life Hacks,less,Night,7,Habit,8:30 PM,high
+24,Female,Vietnam,True,True,YouTube,high,Entertainment,less,Evening,4,Habit,3:45 PM,low
+20,Male,Japan,False,False,TikTok,less,Trends,less,Morning,2,Entertainment,9:15 AM,no addiction
+34,Female,Pakistan,True,True,YouTube,less,Jokes/Memes,high,Afternoon,5,Habit,6:05 PM,moderate
+50,Male,Japan,True,False,YouTube,high,Jokes/Memes,less,Morning,2,Entertainment,9:15 AM,no addiction
+29,Female,Pakistan,False,True,Instagram,less,Trends,high,Night,7,Habit,8:30 PM,high
+39,Female,Mexico,False,False,Facebook,high,Trends,moderate,Night,7,Habit,8:30 PM,high
+39,Other,Pakistan,False,True,Facebook,moderate,Jokes/Memes,moderate,Night,7,Habit,8:30 PM,high
+63,Female,Japan,True,False,Instagram,less,Jokes/Memes,high,Evening,4,Boredom,3:45 PM,low
+47,Male,Philippines,False,True,Instagram,high,Entertainment,high,Night,7,Procrastination,8:30 PM,high
+55,Female,Pakistan,True,False,YouTube,high,Gaming,less,Night,7,Entertainment,8:30 PM,high
+55,Other,Mexico,True,True,TikTok,moderate,Jokes/Memes,moderate,Afternoon,5,Boredom,6:05 PM,moderate
+62,Male,Mexico,False,False,Facebook,high,Entertainment,high,Night,7,Habit,8:30 PM,high
+25,Other,India,True,True,TikTok,high,Entertainment,less,Afternoon,5,Boredom,6:05 PM,moderate
+44,Male,Pakistan,True,True,TikTok,less,Entertainment,moderate,Afternoon,5,Entertainment,6:05 PM,moderate
+44,Female,Germany,False,True,Instagram,moderate,Life Hacks,less,Morning,2,Entertainment,9:15 AM,no addiction
+51,Male,United States,False,True,TikTok,less,Gaming,moderate,Afternoon,5,Entertainment,6:05 PM,moderate
+38,Male,United States,True,False,YouTube,moderate,Comedy,high,Evening,4,Habit,3:45 PM,low
+47,Other,India,True,True,Instagram,less,Trends,moderate,Evening,4,Habit,3:45 PM,low
+50,Male,Mexico,True,False,TikTok,less,ASMR,less,Afternoon,5,Entertainment,6:05 PM,moderate
+45,Female,India,True,True,Instagram,moderate,Gaming,moderate,Night,7,Habit,8:30 PM,high
+64,Male,United States,False,False,YouTube,high,Gaming,moderate,Night,7,Entertainment,8:30 PM,high
+50,Male,Vietnam,True,True,YouTube,high,ASMR,less,Afternoon,5,Boredom,6:05 PM,moderate
+22,Male,Barzil,True,False,TikTok,high,Gaming,less,Night,7,Habit,8:30 PM,high
+36,Other,Pakistan,True,True,Instagram,high,Jokes/Memes,moderate,Afternoon,5,Habit,6:05 PM,moderate
+21,Other,Japan,True,False,TikTok,high,Jokes/Memes,moderate,Afternoon,5,Entertainment,6:05 PM,moderate
+52,Male,India,True,True,TikTok,less,Life Hacks,moderate,Afternoon,5,Entertainment,6:05 PM,moderate
+34,Other,India,True,False,Instagram,less,Vlogs,less,Afternoon,5,Habit,6:05 PM,moderate
+61,Female,United States,True,True,TikTok,high,ASMR,less,Evening,4,Entertainment,3:45 PM,low
+45,Female,Pakistan,True,False,YouTube,high,ASMR,less,Night,7,Boredom,8:30 PM,high
+47,Female,India,True,True,Instagram,high,Trends,high,Afternoon,5,Boredom,6:05 PM,moderate
+46,Male,Barzil,False,False,Instagram,moderate,ASMR,moderate,Night,7,Procrastination,8:30 PM,high
+63,Male,India,True,True,Instagram,moderate,Gaming,high,Evening,4,Entertainment,3:45 PM,low
+23,Female,United States,True,False,Instagram,high,Life Hacks,high,Night,7,Boredom,8:30 PM,high
+52,Male,India,True,True,TikTok,moderate,Gaming,less,Evening,4,Habit,3:45 PM,low
+58,Male,India,False,True,TikTok,high,Life Hacks,moderate,Morning,2,Boredom,9:15 AM,no addiction
+54,Other,Vietnam,True,True,YouTube,less,Entertainment,less,Morning,2,Entertainment,9:15 AM,no addiction
+41,Female,India,True,True,Facebook,less,ASMR,high,Morning,2,Habit,9:15 AM,no addiction
+46,Male,India,False,False,Facebook,high,Vlogs,high,Evening,4,Entertainment,3:45 PM,low
+63,Female,Barzil,True,True,YouTube,high,Entertainment,less,Evening,4,Boredom,3:45 PM,low
+48,Female,United States,False,False,Facebook,moderate,ASMR,less,Night,7,Boredom,8:30 PM,high
+52,Male,India,True,True,YouTube,moderate,Life Hacks,high,Evening,4,Habit,3:45 PM,low
+50,Other,Indonesia,True,False,TikTok,moderate,Comedy,high,Evening,4,Boredom,3:45 PM,low
+38,Female,United States,True,True,Instagram,less,Life Hacks,less,Morning,2,Boredom,9:15 AM,no addiction
+49,Male,India,False,False,Instagram,moderate,Life Hacks,moderate,Night,7,Entertainment,8:30 PM,high
+40,Male,Vietnam,True,True,TikTok,moderate,Comedy,high,Morning,2,Habit,9:15 AM,no addiction
+50,Male,Barzil,True,False,Instagram,high,Entertainment,moderate,Evening,4,Habit,3:45 PM,low
+20,Other,Germany,True,True,Instagram,high,Jokes/Memes,less,Afternoon,5,Habit,6:05 PM,moderate
+35,Female,Pakistan,False,False,Facebook,moderate,Trends,high,Night,7,Habit,8:30 PM,high
+42,Female,Japan,True,True,TikTok,moderate,Trends,high,Night,7,Boredom,8:30 PM,high
+59,Male,Philippines,True,False,Facebook,high,Jokes/Memes,moderate,Night,7,Boredom,8:30 PM,high
+48,Female,Philippines,True,True,Facebook,less,Entertainment,high,Evening,4,Entertainment,3:45 PM,low
+20,Other,Japan,True,False,Instagram,high,Pranks,moderate,Morning,2,Habit,9:15 AM,no addiction
+57,Male,Japan,False,True,Instagram,high,Trends,high,Night,7,Entertainment,8:30 PM,high
+63,Male,India,True,False,TikTok,high,Jokes/Memes,high,Evening,4,Boredom,3:45 PM,low
+41,Male,India,True,True,Instagram,high,Jokes/Memes,less,Evening,4,Habit,3:45 PM,low
+49,Other,Barzil,True,True,Instagram,less,Trends,less,Afternoon,5,Entertainment,6:05 PM,moderate
+64,Male,United States,True,True,TikTok,less,Jokes/Memes,high,Evening,4,Procrastination,3:45 PM,low
+39,Female,India,True,True,Instagram,high,Jokes/Memes,less,Morning,2,Entertainment,9:15 AM,no addiction
+40,Female,India,True,False,Facebook,moderate,Trends,less,Evening,4,Boredom,3:45 PM,low
+19,Male,Pakistan,True,True,TikTok,high,Entertainment,high,Afternoon,5,Boredom,6:05 PM,moderate
+44,Male,Indonesia,True,False,Instagram,high,Gaming,high,Night,7,Procrastination,8:30 PM,high
+59,Male,Philippines,False,True,YouTube,moderate,Jokes/Memes,high,Night,7,Boredom,8:30 PM,high
+19,Female,Barzil,False,False,TikTok,moderate,Jokes/Memes,moderate,Night,7,Habit,8:30 PM,high
+43,Male,Japan,True,True,TikTok,high,Gaming,high,Evening,4,Entertainment,3:45 PM,low
+34,Male,India,True,False,YouTube,less,Gaming,high,Evening,4,Entertainment,3:45 PM,low
+57,Female,Germany,False,True,Instagram,less,Life Hacks,moderate,Afternoon,5,Habit,6:05 PM,moderate
+50,Male,Barzil,True,False,Instagram,less,Entertainment,high,Evening,4,Boredom,3:45 PM,low
+26,Female,Mexico,False,True,TikTok,high,Pranks,high,Morning,2,Habit,9:15 AM,no addiction
+60,Other,Vietnam,True,False,TikTok,moderate,Gaming,high,Night,7,Boredom,8:30 PM,high
+56,Female,India,True,True,Instagram,moderate,Jokes/Memes,moderate,Morning,2,Entertainment,9:15 AM,no addiction
+46,Other,United States,True,False,Instagram,moderate,Pranks,high,Afternoon,5,Entertainment,6:05 PM,moderate
+59,Female,Pakistan,False,True,Facebook,moderate,Pranks,moderate,Night,7,Habit,8:30 PM,high
+43,Female,Indonesia,True,False,TikTok,less,Jokes/Memes,high,Morning,2,Habit,9:15 AM,no addiction
+52,Other,Pakistan,True,True,TikTok,high,Jokes/Memes,moderate,Afternoon,5,Habit,6:05 PM,moderate
+42,Male,Barzil,True,False,YouTube,less,Gaming,less,Evening,4,Habit,3:45 PM,low
+41,Male,Philippines,False,True,Facebook,high,Gaming,less,Evening,4,Entertainment,3:45 PM,low
+30,Male,United States,False,True,Instagram,less,Jokes/Memes,less,Evening,4,Habit,3:45 PM,low
+24,Male,Mexico,True,True,Facebook,high,ASMR,less,Afternoon,5,Habit,6:05 PM,moderate
+53,Female,United States,True,True,Instagram,less,ASMR,less,Afternoon,5,Entertainment,6:05 PM,moderate
+62,Male,India,False,False,Instagram,less,Trends,high,Evening,4,Entertainment,3:45 PM,low
+37,Female,United States,False,True,Facebook,high,Life Hacks,high,Night,7,Habit,8:30 PM,high
+18,Male,India,False,False,TikTok,high,Entertainment,less,Night,7,Boredom,8:30 PM,high
+25,Male,Japan,True,True,Instagram,high,Gaming,moderate,Night,7,Procrastination,8:30 PM,high
+63,Male,Mexico,True,False,Facebook,less,ASMR,high,Night,7,Procrastination,8:30 PM,high
+33,Male,India,True,True,YouTube,moderate,Life Hacks,high,Evening,4,Habit,3:45 PM,low
+31,Female,Germany,False,False,Facebook,less,Pranks,high,Evening,4,Boredom,3:45 PM,low
+29,Male,Indonesia,False,True,YouTube,moderate,Jokes/Memes,less,Night,7,Boredom,8:30 PM,high
+40,Male,Japan,True,False,Instagram,high,Vlogs,high,Evening,4,Boredom,3:45 PM,low
+32,Male,Barzil,False,True,Facebook,less,Jokes/Memes,high,Night,7,Habit,8:30 PM,high
+45,Other,United States,False,False,Facebook,less,Pranks,high,Evening,4,Boredom,3:45 PM,low
+51,Female,Philippines,False,True,YouTube,less,Life Hacks,high,Night,7,Habit,8:30 PM,high
+19,Other,India,True,False,Facebook,moderate,Entertainment,less,Night,7,Habit,8:30 PM,high
+49,Other,Vietnam,True,True,Facebook,less,Vlogs,high,Morning,2,Habit,9:15 AM,no addiction
+40,Male,India,True,False,Instagram,moderate,Gaming,moderate,Morning,2,Habit,7:45 AM,no addiction
+39,Male,Vietnam,True,True,Facebook,moderate,Vlogs,high,Afternoon,5,Procrastination,7:25 PM,moderate
+42,Female,United States,True,False,TikTok,moderate,Life Hacks,high,Afternoon,5,Boredom,7:25 PM,moderate
+39,Female,Vietnam,False,True,YouTube,less,Gaming,less,Afternoon,5,Boredom,7:25 PM,moderate
+39,Female,Germany,False,True,Facebook,less,Vlogs,less,Afternoon,5,Procrastination,7:25 PM,moderate
+59,Male,United States,False,True,YouTube,moderate,Entertainment,less,Evening,4,Boredom,3:55 PM,low
+23,Male,Mexico,False,True,YouTube,less,Pranks,high,Morning,2,Boredom,7:45 AM,no addiction
+32,Female,Indonesia,False,False,YouTube,less,Life Hacks,high,Evening,4,Procrastination,3:55 PM,low
+60,Male,Mexico,True,True,Facebook,less,Entertainment,high,Night,7,Habit,11:30 PM,high
+54,Male,India,False,False,Facebook,less,Entertainment,moderate,Evening,4,Boredom,3:55 PM,low
+50,Other,India,False,True,YouTube,less,Jokes/Memes,moderate,Night,7,Procrastination,11:30 PM,high
+25,Male,Indonesia,True,False,TikTok,high,Jokes/Memes,high,Night,7,Habit,11:30 PM,high
+61,Male,Vietnam,True,True,YouTube,moderate,Vlogs,less,Morning,2,Entertainment,7:45 AM,no addiction
+61,Male,Philippines,True,False,TikTok,moderate,Trends,moderate,Afternoon,5,Entertainment,7:25 PM,moderate
+22,Female,Pakistan,True,True,YouTube,less,ASMR,high,Evening,4,Habit,3:55 PM,low
+56,Male,India,False,False,Instagram,high,Gaming,less,Morning,2,Boredom,7:45 AM,no addiction
+21,Female,Indonesia,True,True,YouTube,less,ASMR,high,Night,7,Boredom,11:30 PM,high
+23,Female,Indonesia,True,False,YouTube,high,ASMR,high,Evening,4,Habit,3:55 PM,low
+62,Male,India,True,True,Facebook,high,Jokes/Memes,moderate,Afternoon,5,Boredom,7:25 PM,moderate
+49,Male,Barzil,False,False,TikTok,moderate,Life Hacks,less,Night,7,Habit,11:30 PM,high
+47,Male,Vietnam,True,True,Instagram,moderate,Vlogs,moderate,Morning,2,Habit,7:45 AM,no addiction
+64,Male,India,True,False,TikTok,high,Entertainment,less,Evening,4,Boredom,3:55 PM,low
+52,Male,Indonesia,False,True,Instagram,moderate,Gaming,moderate,Morning,2,Boredom,7:45 AM,no addiction
+57,Male,India,True,False,YouTube,high,Pranks,less,Night,7,Entertainment,11:30 PM,high
+33,Male,India,False,True,Facebook,less,Jokes/Memes,less,Evening,4,Procrastination,3:55 PM,low
+30,Male,India,True,True,Facebook,high,Comedy,less,Evening,4,Habit,3:55 PM,low
+59,Female,Barzil,False,True,TikTok,less,Pranks,less,Night,7,Boredom,11:30 PM,high
+47,Male,United States,False,True,Facebook,less,ASMR,moderate,Evening,4,Habit,3:55 PM,low
+36,Male,Mexico,False,False,TikTok,less,Trends,less,Evening,4,Entertainment,3:55 PM,low
+34,Male,Indonesia,False,True,TikTok,less,Vlogs,less,Evening,4,Boredom,3:55 PM,low
+36,Female,Vietnam,True,False,Instagram,less,Pranks,moderate,Evening,4,Habit,3:55 PM,low
+45,Male,Pakistan,False,True,TikTok,less,Trends,high,Night,7,Boredom,11:30 PM,high
+43,Female,United States,True,False,Instagram,high,Comedy,moderate,Evening,4,Boredom,3:55 PM,low
+54,Female,United States,True,True,Facebook,high,Gaming,less,Afternoon,5,Habit,7:25 PM,moderate
+43,Male,Philippines,False,False,TikTok,high,Comedy,high,Night,7,Entertainment,11:30 PM,high
+40,Other,Philippines,True,True,TikTok,high,Life Hacks,moderate,Evening,4,Habit,3:55 PM,low
+26,Other,Japan,False,False,YouTube,high,Vlogs,less,Morning,2,Boredom,7:45 AM,no addiction
+29,Female,Barzil,True,True,TikTok,high,Trends,moderate,Night,7,Boredom,11:30 PM,high
+18,Female,Pakistan,True,False,TikTok,high,Pranks,moderate,Afternoon,4,Entertainment,7:25 PM,low
+18,Male,Japan,True,True,YouTube,moderate,ASMR,high,Evening,3,Habit,3:55 PM,low
+64,Male,Barzil,True,False,YouTube,less,Jokes/Memes,less,Night,8,Entertainment,11:30 PM,high
+51,Female,Vietnam,True,True,Facebook,less,Entertainment,moderate,Night,8,Entertainment,11:30 PM,high
+49,Male,India,True,False,TikTok,moderate,Vlogs,high,Evening,3,Boredom,3:55 PM,low
+42,Male,Vietnam,False,True,Facebook,moderate,Pranks,high,Morning,1,Habit,7:45 AM,no addiction
+57,Male,Mexico,True,False,Facebook,high,Life Hacks,high,Evening,3,Boredom,3:55 PM,low
+62,Male,United States,False,True,YouTube,less,Life Hacks,less,Evening,3,Boredom,3:55 PM,low
+18,Male,India,False,True,Instagram,high,Life Hacks,less,Night,8,Entertainment,11:30 PM,high
+33,Female,Philippines,True,True,Facebook,high,Gaming,moderate,Morning,1,Entertainment,7:45 AM,no addiction
+56,Male,Barzil,True,True,Instagram,less,Vlogs,moderate,Evening,3,Boredom,3:55 PM,low
+22,Male,Vietnam,True,False,TikTok,less,Trends,moderate,Night,8,Boredom,11:30 PM,high
+39,Female,India,True,True,YouTube,less,Entertainment,less,Evening,3,Boredom,3:55 PM,low
+46,Other,Mexico,True,False,TikTok,moderate,Jokes/Memes,high,Afternoon,4,Habit,7:25 PM,low
+20,Male,Indonesia,True,True,TikTok,moderate,Entertainment,moderate,Evening,3,Boredom,3:55 PM,low
+29,Male,United States,False,False,YouTube,less,Entertainment,less,Evening,3,Entertainment,3:55 PM,low
+43,Male,United States,True,True,TikTok,less,Vlogs,moderate,Evening,3,Boredom,3:55 PM,low
+33,Male,Mexico,True,False,YouTube,moderate,Entertainment,moderate,Night,8,Entertainment,11:30 PM,high
+54,Other,Mexico,True,True,Instagram,high,Trends,high,Afternoon,4,Entertainment,7:25 PM,low
+39,Other,Vietnam,True,False,TikTok,moderate,Jokes/Memes,high,Evening,3,Boredom,3:55 PM,low
+46,Male,India,True,True,YouTube,moderate,Trends,high,Evening,3,Entertainment,3:55 PM,low
+31,Female,Japan,True,False,Facebook,high,Vlogs,less,Afternoon,4,Boredom,7:25 PM,low
+45,Male,United States,False,True,TikTok,less,Entertainment,high,Afternoon,4,Habit,7:25 PM,low
+22,Female,United States,True,False,Instagram,less,Vlogs,high,Afternoon,4,Procrastination,7:25 PM,low
+64,Male,Indonesia,True,True,YouTube,moderate,Life Hacks,less,Afternoon,4,Boredom,7:25 PM,low
+47,Female,Indonesia,False,False,TikTok,less,Jokes/Memes,less,Morning,1,Procrastination,7:45 AM,no addiction
+63,Male,India,True,True,TikTok,less,Life Hacks,moderate,Afternoon,4,Entertainment,7:25 PM,low
+22,Male,Mexico,True,False,TikTok,moderate,Jokes/Memes,less,Night,8,Habit,11:30 PM,high
+29,Female,Barzil,True,True,Instagram,high,ASMR,moderate,Evening,3,Habit,3:55 PM,low
+33,Female,India,True,True,YouTube,less,Trends,less,Afternoon,4,Entertainment,7:25 PM,low
+43,Male,United States,True,True,Facebook,high,Vlogs,high,Evening,3,Procrastination,3:55 PM,low
+43,Female,Vietnam,True,True,Facebook,less,Life Hacks,moderate,Morning,1,Boredom,7:45 AM,no addiction
+38,Male,Indonesia,False,False,Facebook,less,Vlogs,high,Night,8,Entertainment,11:30 PM,high
+56,Other,United States,False,True,YouTube,less,Jokes/Memes,high,Morning,1,Habit,7:45 AM,no addiction
+53,Female,India,True,False,Facebook,moderate,Gaming,moderate,Night,8,Entertainment,11:30 PM,high
+50,Other,Philippines,False,True,Instagram,less,Comedy,less,Night,8,Habit,11:30 PM,high
+47,Male,United States,True,False,YouTube,high,Jokes/Memes,moderate,Afternoon,4,Habit,7:25 PM,low
+54,Male,India,True,True,TikTok,moderate,Life Hacks,moderate,Morning,1,Boredom,7:45 AM,no addiction
+40,Male,Barzil,True,False,Instagram,moderate,Comedy,high,Night,8,Entertainment,11:30 PM,high
+27,Female,India,False,True,TikTok,moderate,Life Hacks,high,Morning,1,Habit,7:45 AM,no addiction
+22,Male,Philippines,False,False,Facebook,moderate,Gaming,moderate,Afternoon,4,Procrastination,7:25 PM,low
+53,Male,India,False,True,Instagram,less,Entertainment,moderate,Evening,3,Entertainment,3:55 PM,low
+51,Female,Japan,True,False,YouTube,moderate,Trends,high,Evening,3,Entertainment,3:55 PM,low
+48,Other,United States,False,True,Instagram,moderate,Pranks,high,Night,8,Entertainment,11:30 PM,high
+27,Female,India,True,False,TikTok,moderate,Jokes/Memes,less,Morning,1,Procrastination,7:45 AM,no addiction
+36,Male,Germany,False,True,YouTube,less,Life Hacks,high,Night,8,Boredom,11:30 PM,high
+49,Female,Japan,True,False,Instagram,less,Comedy,less,Afternoon,4,Habit,7:25 PM,low
+18,Male,Japan,False,True,Instagram,less,Trends,high,Evening,3,Habit,3:55 PM,low
+22,Female,India,False,False,Instagram,moderate,Trends,high,Evening,3,Boredom,3:55 PM,low
+62,Male,Germany,False,True,Instagram,moderate,Life Hacks,high,Night,8,Entertainment,11:30 PM,high
+21,Other,India,True,True,YouTube,less,Life Hacks,high,Afternoon,4,Boredom,7:25 PM,low
+33,Male,United States,True,True,TikTok,less,Gaming,moderate,Evening,3,Boredom,3:55 PM,low
+41,Female,Barzil,True,True,Instagram,high,Pranks,high,Evening,3,Entertainment,3:55 PM,low
+33,Female,Pakistan,True,False,YouTube,less,Vlogs,moderate,Evening,3,Entertainment,3:55 PM,low
+19,Male,United States,True,True,TikTok,less,Jokes/Memes,moderate,Evening,3,Habit,3:55 PM,low
+45,Female,India,False,False,Instagram,high,ASMR,less,Night,8,Boredom,11:30 PM,high
+49,Male,Barzil,True,True,TikTok,moderate,Entertainment,moderate,Night,8,Habit,11:30 PM,high
+44,Male,Indonesia,True,False,TikTok,moderate,Gaming,less,Afternoon,4,Procrastination,7:25 PM,low
+37,Male,India,True,True,YouTube,high,Jokes/Memes,moderate,Night,8,Procrastination,11:30 PM,high
+41,Female,Indonesia,True,False,TikTok,less,Vlogs,high,Night,8,Entertainment,11:30 PM,high
+29,Female,Germany,True,True,YouTube,less,Entertainment,high,Night,8,Entertainment,11:30 PM,high
+52,Male,Indonesia,True,False,Instagram,moderate,Gaming,moderate,Morning,1,Entertainment,7:45 AM,no addiction
+50,Female,Vietnam,False,True,TikTok,less,Jokes/Memes,moderate,Morning,1,Boredom,7:45 AM,no addiction
+50,Male,United States,False,False,TikTok,high,Vlogs,high,Night,8,Habit,11:30 PM,high
+60,Other,United States,True,True,Facebook,moderate,Vlogs,less,Morning,1,Entertainment,7:45 AM,no addiction
+54,Male,Pakistan,True,False,Instagram,high,Jokes/Memes,high,Evening,3,Entertainment,3:55 PM,low
+29,Male,Vietnam,True,True,Instagram,less,Life Hacks,less,Morning,1,Boredom,7:45 AM,no addiction
+20,Female,India,True,False,Facebook,moderate,ASMR,high,Afternoon,4,Boredom,7:25 PM,low
+18,Male,Pakistan,True,True,Facebook,less,Jokes/Memes,high,Afternoon,4,Entertainment,7:25 PM,low
+50,Male,Indonesia,False,False,YouTube,high,Jokes/Memes,high,Evening,3,Entertainment,3:55 PM,low
+57,Female,India,True,True,YouTube,high,Comedy,moderate,Evening,3,Habit,3:55 PM,low
+27,Female,Philippines,False,True,TikTok,moderate,Vlogs,high,Afternoon,4,Entertainment,7:25 PM,low
+60,Other,India,True,True,TikTok,high,Pranks,moderate,Night,8,Procrastination,11:30 PM,high
+61,Female,Mexico,False,True,TikTok,less,Jokes/Memes,less,Night,8,Habit,11:30 PM,high
+46,Male,Pakistan,False,False,TikTok,moderate,Gaming,less,Afternoon,4,Boredom,7:25 PM,low
+30,Female,Indonesia,True,True,YouTube,moderate,ASMR,less,Morning,1,Entertainment,7:45 AM,no addiction
+29,Female,India,True,False,Instagram,less,Vlogs,high,Night,8,Entertainment,11:30 PM,high
+48,Other,Barzil,True,True,TikTok,high,Comedy,less,Afternoon,4,Boredom,7:25 PM,low
+63,Male,United States,True,False,Instagram,high,Entertainment,high,Evening,3,Procrastination,3:55 PM,low
+19,Male,Japan,True,True,TikTok,less,Vlogs,high,Afternoon,4,Habit,7:25 PM,low
+52,Male,United States,True,False,Facebook,moderate,Trends,high,Morning,1,Entertainment,7:45 AM,no addiction
+40,Female,India,True,True,TikTok,less,Gaming,high,Morning,1,Boredom,7:45 AM,no addiction
+34,Male,India,True,False,TikTok,less,Life Hacks,less,Afternoon,4,Boredom,7:25 PM,low
+43,Male,Germany,True,True,TikTok,moderate,Vlogs,high,Night,8,Entertainment,11:30 PM,high
+25,Other,India,True,False,YouTube,less,Life Hacks,moderate,Evening,3,Entertainment,3:55 PM,low
+46,Female,India,True,True,Facebook,moderate,Trends,high,Afternoon,4,Habit,7:25 PM,low
+43,Male,India,True,False,TikTok,moderate,Jokes/Memes,high,Evening,3,Entertainment,3:55 PM,low
+27,Other,United States,False,True,TikTok,moderate,Jokes/Memes,high,Afternoon,4,Habit,7:25 PM,low
+43,Male,India,False,False,Instagram,less,Life Hacks,moderate,Morning,1,Boredom,7:45 AM,no addiction
+51,Male,Pakistan,True,True,Facebook,less,Life Hacks,moderate,Afternoon,4,Procrastination,7:25 PM,low
+58,Other,Japan,False,False,TikTok,moderate,Trends,less,Evening,3,Habit,3:55 PM,low
+24,Male,India,True,True,Instagram,less,Comedy,high,Night,8,Habit,11:30 PM,high
+21,Female,Japan,True,True,Instagram,moderate,Gaming,high,Night,8,Boredom,11:30 PM,high
+62,Male,Philippines,True,True,YouTube,moderate,Entertainment,less,Night,8,Procrastination,11:30 PM,high
+28,Female,Indonesia,True,True,Instagram,moderate,Pranks,moderate,Evening,3,Procrastination,3:55 PM,low
+46,Male,India,True,False,TikTok,moderate,Jokes/Memes,high,Night,8,Entertainment,11:30 PM,high
+53,Female,United States,True,True,YouTube,moderate,Vlogs,high,Night,8,Entertainment,11:30 PM,high
+42,Other,India,True,False,YouTube,high,Gaming,high,Night,8,Habit,11:30 PM,high
+38,Male,Indonesia,False,True,TikTok,less,Life Hacks,high,Night,8,Entertainment,11:30 PM,high
+53,Female,Philippines,True,False,Facebook,high,Trends,less,Evening,3,Procrastination,3:55 PM,low
+27,Male,United States,True,True,Instagram,moderate,ASMR,less,Night,8,Boredom,11:30 PM,high
+54,Male,India,True,False,YouTube,high,Life Hacks,less,Evening,3,Boredom,3:55 PM,low
+26,Other,India,True,True,Facebook,high,Gaming,less,Evening,3,Boredom,3:55 PM,low
+41,Male,Japan,True,False,TikTok,less,Trends,high,Evening,3,Habit,3:55 PM,low
+52,Male,Indonesia,False,True,Instagram,high,Trends,high,Night,8,Habit,11:30 PM,high
+52,Male,Japan,True,False,Instagram,moderate,Trends,moderate,Night,8,Boredom,11:30 PM,high
+53,Other,Philippines,True,True,YouTube,less,Jokes/Memes,high,Night,8,Habit,11:30 PM,high
+35,Other,United States,True,False,Instagram,moderate,Pranks,moderate,Afternoon,4,Habit,7:25 PM,low
+56,Female,India,True,True,Instagram,high,Jokes/Memes,less,Afternoon,4,Habit,7:25 PM,low
+49,Female,Mexico,True,False,Instagram,high,Comedy,less,Evening,3,Habit,3:55 PM,low
+41,Female,United States,True,True,Instagram,less,ASMR,high,Evening,3,Boredom,3:55 PM,low
+40,Other,India,True,False,TikTok,less,Life Hacks,less,Evening,3,Boredom,3:55 PM,low
+49,Male,United States,True,True,Facebook,moderate,Vlogs,moderate,Night,7,Habit,11:30 PM,high
+54,Male,Japan,True,True,TikTok,high,Vlogs,less,Night,7,Procrastination,11:30 PM,high
+29,Male,United States,False,True,TikTok,less,ASMR,high,Afternoon,4,Boredom,7:25 PM,low
+30,Male,Philippines,True,True,YouTube,less,Comedy,less,Night,7,Entertainment,11:30 PM,high
+40,Other,Vietnam,True,False,Instagram,less,Gaming,less,Evening,3,Procrastination,3:55 PM,low
+42,Male,Vietnam,True,True,TikTok,moderate,Entertainment,moderate,Afternoon,4,Boredom,7:25 PM,low
+52,Male,Vietnam,False,False,Instagram,high,Jokes/Memes,less,Evening,3,Habit,3:55 PM,low
+58,Male,Philippines,False,True,TikTok,less,Jokes/Memes,moderate,Evening,3,Entertainment,3:55 PM,low
+47,Female,United States,True,False,TikTok,less,Entertainment,high,Evening,3,Habit,3:55 PM,low
+34,Female,India,False,True,YouTube,moderate,Pranks,less,Evening,3,Boredom,3:55 PM,low
+37,Male,Philippines,True,False,Facebook,high,Pranks,high,Morning,1,Habit,7:45 AM,no addiction
+42,Female,Vietnam,False,True,Facebook,less,Pranks,high,Night,7,Habit,11:30 PM,high
+39,Male,Indonesia,False,False,TikTok,high,Gaming,moderate,Night,7,Habit,11:30 PM,high
+30,Male,Philippines,False,True,YouTube,moderate,Trends,high,Afternoon,4,Entertainment,7:25 PM,low
+36,Male,Germany,True,False,Instagram,less,Pranks,moderate,Evening,3,Procrastination,3:55 PM,low
+53,Male,India,False,True,Instagram,less,Vlogs,moderate,Evening,3,Procrastination,3:55 PM,low
+29,Female,Vietnam,True,False,TikTok,moderate,Comedy,less,Night,7,Habit,11:30 PM,high
+58,Other,Barzil,False,True,Facebook,high,Jokes/Memes,high,Evening,5,Habit,3:55 PM,moderate
+36,Other,India,True,False,YouTube,less,Trends,less,Evening,5,Boredom,3:55 PM,moderate
+29,Male,India,False,True,Facebook,moderate,Vlogs,high,Evening,5,Boredom,3:55 PM,moderate
+26,Other,United States,True,False,Instagram,moderate,Jokes/Memes,high,Night,9,Procrastination,11:30 PM,extreme
+24,Male,India,False,True,Facebook,high,Life Hacks,high,Night,9,Habit,11:30 PM,extreme
+45,Female,India,True,True,Instagram,high,Jokes/Memes,high,Night,9,Habit,11:30 PM,extreme
+31,Male,Pakistan,False,True,YouTube,less,Jokes/Memes,high,Evening,5,Procrastination,3:55 PM,moderate
+48,Female,Japan,True,True,YouTube,less,Gaming,high,Night,9,Boredom,11:30 PM,extreme
+36,Female,India,False,False,TikTok,less,Jokes/Memes,high,Afternoon,6,Boredom,7:25 PM,moderate
+64,Male,Germany,True,True,TikTok,less,Pranks,less,Night,9,Entertainment,11:30 PM,extreme
+33,Female,India,True,False,Facebook,moderate,Life Hacks,high,Afternoon,6,Habit,7:25 PM,moderate
+22,Male,Philippines,True,True,YouTube,moderate,Pranks,less,Evening,5,Habit,3:55 PM,moderate
+52,Other,Mexico,True,False,YouTube,high,Vlogs,high,Evening,5,Habit,3:55 PM,moderate
+29,Male,Japan,False,True,TikTok,moderate,Pranks,less,Evening,5,Entertainment,3:55 PM,moderate
+42,Male,Barzil,False,False,Instagram,moderate,Vlogs,moderate,Evening,5,Boredom,3:55 PM,moderate
+38,Male,India,True,True,Facebook,high,ASMR,less,Night,9,Procrastination,11:30 PM,extreme
+53,Other,Japan,True,False,Facebook,moderate,Vlogs,high,Morning,3,Boredom,7:45 AM,low
+40,Female,India,False,True,TikTok,less,Life Hacks,less,Night,9,Habit,11:30 PM,extreme
+33,Male,United States,False,False,YouTube,less,ASMR,moderate,Evening,5,Habit,3:55 PM,moderate
+56,Female,Japan,True,True,TikTok,less,Vlogs,moderate,Morning,3,Entertainment,7:45 AM,low
+62,Male,Vietnam,True,False,TikTok,moderate,Gaming,moderate,Night,9,Habit,11:30 PM,extreme
+59,Female,India,False,True,TikTok,moderate,Gaming,less,Evening,5,Entertainment,3:55 PM,moderate
+56,Male,Barzil,True,False,TikTok,less,Comedy,less,Evening,5,Habit,3:55 PM,moderate
+31,Male,Vietnam,False,True,Instagram,less,Jokes/Memes,high,Night,9,Boredom,11:30 PM,extreme
+48,Female,India,False,False,Instagram,moderate,Vlogs,moderate,Night,9,Boredom,11:30 PM,extreme
+22,Male,United States,True,True,YouTube,high,Life Hacks,less,Evening,5,Habit,3:55 PM,moderate
+52,Other,United States,True,True,TikTok,moderate,ASMR,less,Night,9,Entertainment,11:30 PM,extreme
+40,Male,Barzil,True,True,Instagram,moderate,Gaming,less,Afternoon,6,Boredom,7:25 PM,moderate
+46,Male,Mexico,False,True,YouTube,high,Gaming,high,Evening,5,Entertainment,3:55 PM,moderate
+60,Other,India,False,False,TikTok,less,Entertainment,high,Afternoon,6,Entertainment,7:25 PM,moderate
+28,Male,United States,False,True,Facebook,high,Jokes/Memes,less,Night,9,Habit,11:30 PM,extreme
+35,Male,Barzil,True,False,Instagram,less,Entertainment,moderate,Night,9,Boredom,11:30 PM,extreme
+64,Male,Vietnam,False,True,YouTube,less,Comedy,high,Afternoon,6,Boredom,7:25 PM,moderate
+29,Female,United States,True,False,Facebook,less,Pranks,moderate,Night,9,Entertainment,10:15 PM,extreme
+26,Female,Philippines,False,True,TikTok,moderate,Jokes/Memes,moderate,Morning,3,Entertainment,9:55 AM,low
+27,Male,United States,True,False,TikTok,less,Life Hacks,high,Morning,3,Boredom,9:55 AM,low
+61,Male,United States,True,True,TikTok,high,Life Hacks,high,Night,9,Habit,10:15 PM,extreme
+34,Male,Vietnam,True,False,Instagram,moderate,Vlogs,high,Evening,5,Procrastination,4:25 PM,moderate
+55,Female,Indonesia,True,True,YouTube,moderate,Trends,moderate,Night,9,Entertainment,10:15 PM,extreme
+24,Male,Barzil,False,False,Facebook,high,Gaming,less,Evening,5,Habit,4:25 PM,moderate
+63,Female,India,False,True,YouTube,less,Entertainment,less,Evening,5,Entertainment,4:25 PM,moderate
+30,Female,United States,False,False,Instagram,moderate,ASMR,high,Morning,3,Entertainment,9:55 AM,low
+57,Other,United States,False,True,YouTube,less,Life Hacks,moderate,Night,9,Entertainment,10:15 PM,extreme
+59,Male,Philippines,False,False,Instagram,moderate,Jokes/Memes,high,Night,9,Boredom,10:15 PM,extreme
+26,Male,India,True,True,TikTok,moderate,Life Hacks,high,Evening,5,Boredom,4:25 PM,moderate
+44,Male,Barzil,False,False,Facebook,less,Life Hacks,high,Afternoon,6,Habit,5:45 PM,moderate
+19,Other,Germany,False,True,TikTok,less,Pranks,high,Morning,3,Entertainment,9:55 AM,low
+22,Male,Vietnam,True,True,YouTube,high,Trends,high,Afternoon,6,Entertainment,5:45 PM,moderate
+46,Male,Indonesia,True,True,TikTok,moderate,Trends,moderate,Afternoon,6,Entertainment,5:45 PM,moderate
+54,Male,Barzil,True,True,Facebook,moderate,Gaming,high,Evening,5,Procrastination,4:25 PM,moderate
+55,Male,United States,False,False,TikTok,moderate,Entertainment,moderate,Night,9,Procrastination,10:15 PM,extreme
+36,Female,Philippines,True,True,Facebook,high,Vlogs,moderate,Evening,5,Habit,4:25 PM,moderate
+25,Other,Indonesia,True,False,Facebook,less,Entertainment,high,Evening,5,Habit,4:25 PM,moderate
+62,Male,United States,False,True,TikTok,high,Comedy,less,Night,9,Entertainment,10:15 PM,extreme
+18,Female,Barzil,True,False,Instagram,moderate,Vlogs,less,Evening,5,Entertainment,4:25 PM,moderate
+39,Male,India,True,True,YouTube,moderate,Gaming,high,Night,9,Habit,10:15 PM,extreme
+34,Male,Germany,True,False,Instagram,high,Vlogs,less,Evening,5,Entertainment,4:25 PM,moderate
+24,Male,United States,False,True,Instagram,high,Jokes/Memes,moderate,Afternoon,6,Boredom,5:45 PM,moderate
+42,Male,Indonesia,False,False,TikTok,high,Gaming,high,Night,9,Boredom,10:15 PM,extreme
+62,Female,Indonesia,True,True,YouTube,high,Trends,high,Night,9,Boredom,10:15 PM,extreme
+21,Male,United States,True,False,YouTube,high,Trends,moderate,Evening,5,Procrastination,4:25 PM,moderate
+53,Male,Pakistan,False,True,Instagram,high,Vlogs,less,Afternoon,6,Boredom,5:45 PM,moderate
+23,Male,Barzil,True,False,TikTok,high,ASMR,less,Evening,5,Entertainment,4:25 PM,moderate
+48,Male,Pakistan,True,True,YouTube,less,Pranks,moderate,Afternoon,6,Habit,5:45 PM,moderate
+36,Female,Mexico,True,False,Instagram,less,Entertainment,high,Morning,3,Boredom,9:55 AM,low
+61,Female,Barzil,True,True,YouTube,less,Jokes/Memes,less,Evening,5,Boredom,4:25 PM,moderate
+56,Female,United States,False,False,TikTok,high,Entertainment,high,Morning,3,Entertainment,9:55 AM,low
+44,Male,India,False,True,TikTok,less,Gaming,less,Afternoon,6,Habit,5:45 PM,moderate
+27,Male,Philippines,True,True,TikTok,moderate,Jokes/Memes,high,Afternoon,6,Entertainment,5:45 PM,moderate
+43,Male,United States,True,True,YouTube,moderate,Trends,less,Evening,5,Habit,4:25 PM,moderate
+36,Male,Pakistan,True,True,Facebook,moderate,ASMR,high,Evening,5,Habit,4:25 PM,moderate
+56,Male,India,False,False,YouTube,moderate,ASMR,high,Evening,5,Boredom,4:25 PM,moderate
+20,Female,Philippines,True,True,Facebook,high,Life Hacks,moderate,Night,9,Habit,10:15 PM,extreme
+62,Female,United States,True,False,TikTok,high,Trends,high,Night,9,Habit,10:15 PM,extreme
+30,Other,United States,True,True,Instagram,moderate,ASMR,moderate,Afternoon,6,Habit,5:45 PM,moderate
+45,Male,India,True,False,Facebook,less,Jokes/Memes,high,Afternoon,6,Procrastination,5:45 PM,moderate
+37,Male,United States,True,True,TikTok,high,Gaming,high,Evening,5,Habit,4:25 PM,moderate
+45,Female,Philippines,True,False,TikTok,moderate,Trends,high,Evening,5,Habit,4:25 PM,moderate
+25,Female,United States,False,True,Facebook,less,Jokes/Memes,less,Evening,5,Boredom,4:25 PM,moderate
+58,Other,India,False,False,Instagram,less,ASMR,moderate,Evening,5,Procrastination,4:25 PM,moderate
+56,Male,India,True,True,TikTok,less,Jokes/Memes,moderate,Afternoon,6,Entertainment,5:45 PM,moderate
+18,Female,India,True,False,Facebook,moderate,Entertainment,high,Night,9,Boredom,10:15 PM,extreme
+20,Male,Vietnam,True,True,Instagram,moderate,ASMR,high,Evening,5,Boredom,4:25 PM,moderate
+30,Female,Germany,False,False,Instagram,high,Pranks,moderate,Night,9,Habit,10:15 PM,extreme
+45,Male,United States,False,True,TikTok,moderate,Life Hacks,moderate,Night,9,Entertainment,10:15 PM,extreme
+42,Male,United States,False,False,YouTube,high,Vlogs,less,Afternoon,6,Entertainment,5:45 PM,moderate
+50,Male,Barzil,False,True,YouTube,moderate,Vlogs,high,Evening,5,Habit,4:25 PM,moderate
+55,Female,United States,False,False,TikTok,less,Jokes/Memes,moderate,Night,9,Boredom,10:15 PM,extreme
+23,Male,Pakistan,False,True,Instagram,high,Vlogs,moderate,Night,9,Habit,10:15 PM,extreme
+61,Other,United States,True,True,TikTok,moderate,Pranks,less,Night,9,Boredom,10:15 PM,extreme
+62,Male,India,False,True,Facebook,moderate,Life Hacks,moderate,Afternoon,6,Procrastination,5:45 PM,moderate
+49,Male,United States,True,True,YouTube,high,Gaming,less,Night,9,Boredom,10:15 PM,extreme
+62,Female,Vietnam,True,False,Facebook,high,Pranks,high,Evening,5,Procrastination,4:25 PM,moderate
+64,Male,India,False,True,TikTok,less,Gaming,high,Evening,5,Procrastination,4:25 PM,moderate
+38,Female,Mexico,False,False,TikTok,high,Vlogs,high,Night,9,Habit,10:15 PM,extreme
+33,Male,India,False,True,Instagram,moderate,Life Hacks,moderate,Afternoon,6,Habit,5:45 PM,moderate
+38,Male,Japan,False,False,Instagram,high,Trends,high,Night,9,Habit,10:15 PM,extreme
+28,Male,Philippines,True,True,Instagram,high,Life Hacks,less,Evening,5,Procrastination,4:25 PM,moderate
+54,Male,United States,True,False,Facebook,moderate,Jokes/Memes,less,Afternoon,6,Procrastination,5:45 PM,moderate
+53,Other,Philippines,True,True,Instagram,high,ASMR,moderate,Evening,5,Boredom,4:25 PM,moderate
+52,Male,Indonesia,False,False,TikTok,less,Life Hacks,less,Afternoon,6,Entertainment,5:45 PM,moderate
+36,Female,Pakistan,True,True,Instagram,moderate,ASMR,moderate,Afternoon,6,Habit,5:45 PM,moderate
+37,Male,United States,False,False,YouTube,moderate,Life Hacks,less,Night,9,Entertainment,10:15 PM,extreme
+35,Male,Pakistan,True,True,Instagram,high,Jokes/Memes,moderate,Morning,3,Entertainment,9:55 AM,low
+64,Male,Philippines,True,False,Facebook,moderate,Pranks,high,Night,9,Entertainment,10:15 PM,extreme
+58,Male,India,True,True,YouTube,less,Vlogs,high,Night,9,Habit,10:15 PM,extreme
+31,Male,Japan,True,False,YouTube,less,Entertainment,moderate,Morning,3,Entertainment,9:55 AM,low
+32,Male,India,True,True,YouTube,moderate,Entertainment,high,Evening,5,Habit,4:25 PM,moderate
+48,Male,Mexico,True,False,Facebook,moderate,Gaming,less,Night,9,Habit,10:15 PM,extreme
+18,Male,Japan,True,True,TikTok,high,Pranks,less,Morning,3,Procrastination,9:55 AM,low
+20,Male,Japan,True,True,Instagram,moderate,Life Hacks,moderate,Night,9,Entertainment,10:15 PM,extreme
+33,Female,India,True,True,YouTube,less,Jokes/Memes,moderate,Night,9,Boredom,10:15 PM,extreme
+40,Female,India,False,True,YouTube,high,Pranks,high,Morning,3,Boredom,9:55 AM,low
+28,Male,Vietnam,True,False,YouTube,high,Vlogs,high,Afternoon,6,Entertainment,5:45 PM,moderate
+29,Other,Philippines,False,True,TikTok,moderate,Life Hacks,high,Night,9,Habit,10:15 PM,extreme
+27,Female,India,False,False,TikTok,less,Life Hacks,high,Evening,5,Habit,4:25 PM,moderate
+49,Male,Pakistan,True,True,Facebook,moderate,Entertainment,high,Afternoon,6,Habit,5:45 PM,moderate
+33,Male,India,True,False,TikTok,high,ASMR,less,Morning,3,Boredom,9:55 AM,low
+25,Male,Pakistan,False,True,Instagram,high,Entertainment,moderate,Evening,5,Habit,4:25 PM,moderate
+55,Female,Vietnam,True,False,Facebook,less,Pranks,moderate,Night,9,Boredom,10:15 PM,extreme
+29,Male,Mexico,True,True,Facebook,moderate,Jokes/Memes,moderate,Evening,5,Habit,4:25 PM,moderate
+41,Male,United States,True,False,Instagram,moderate,Gaming,less,Night,9,Procrastination,10:15 PM,extreme
+45,Female,Vietnam,True,True,Instagram,high,Pranks,moderate,Evening,5,Procrastination,4:25 PM,moderate
+25,Female,Germany,True,False,Instagram,less,ASMR,less,Evening,5,Boredom,4:25 PM,moderate
+45,Male,Barzil,True,True,Facebook,moderate,Life Hacks,moderate,Night,9,Procrastination,10:15 PM,extreme
+53,Male,India,False,False,Facebook,moderate,Pranks,moderate,Morning,3,Boredom,9:55 AM,low
+43,Other,Mexico,False,True,Facebook,less,Vlogs,high,Night,9,Boredom,10:15 PM,extreme
+25,Female,Germany,False,False,Instagram,moderate,Jokes/Memes,high,Afternoon,6,Entertainment,5:45 PM,moderate
+45,Female,Indonesia,False,True,Instagram,high,Life Hacks,moderate,Evening,5,Boredom,4:25 PM,moderate
+45,Female,Mexico,False,False,YouTube,high,Life Hacks,moderate,Night,9,Entertainment,10:15 PM,extreme
+54,Other,India,True,True,TikTok,moderate,Gaming,high,Evening,5,Entertainment,4:25 PM,moderate
+58,Male,India,True,True,YouTube,high,Vlogs,high,Afternoon,6,Entertainment,5:45 PM,moderate
+53,Male,Vietnam,True,True,Instagram,less,Life Hacks,moderate,Evening,5,Boredom,4:25 PM,moderate
+44,Female,Barzil,False,True,Facebook,less,Gaming,moderate,Evening,5,Boredom,4:25 PM,moderate
+34,Female,Mexico,True,False,Instagram,less,Vlogs,high,Afternoon,6,Procrastination,5:45 PM,moderate
+26,Male,Philippines,False,True,TikTok,high,Life Hacks,moderate,Night,9,Boredom,10:15 PM,extreme
+50,Other,India,False,False,YouTube,high,Jokes/Memes,less,Evening,5,Entertainment,4:25 PM,moderate
+37,Male,United States,True,True,YouTube,less,Trends,high,Night,9,Boredom,10:15 PM,extreme
+30,Male,Vietnam,False,False,Facebook,moderate,Jokes/Memes,high,Night,9,Habit,10:15 PM,extreme
+45,Male,India,True,True,YouTube,less,Vlogs,high,Evening,5,Habit,4:25 PM,moderate
+46,Male,Barzil,True,False,YouTube,high,Trends,high,Evening,5,Habit,4:25 PM,moderate
+30,Female,United States,False,True,Instagram,moderate,Entertainment,moderate,Evening,5,Habit,4:25 PM,moderate
+63,Female,Mexico,True,False,YouTube,moderate,Pranks,moderate,Night,9,Procrastination,10:15 PM,extreme
+52,Male,Philippines,False,True,YouTube,high,Life Hacks,less,Night,9,Boredom,10:15 PM,extreme
+23,Male,Mexico,False,False,YouTube,high,Entertainment,high,Afternoon,6,Procrastination,5:45 PM,moderate
+35,Other,Japan,True,True,Facebook,high,Life Hacks,high,Evening,5,Entertainment,4:25 PM,moderate
+22,Male,Barzil,True,False,Facebook,moderate,Entertainment,high,Evening,5,Habit,4:25 PM,moderate
+64,Other,Germany,False,True,Instagram,moderate,Vlogs,less,Night,9,Entertainment,10:15 PM,extreme
+42,Female,India,True,False,YouTube,moderate,Entertainment,less,Morning,3,Boredom,9:55 AM,low
+19,Male,Philippines,False,True,Facebook,moderate,ASMR,less,Evening,5,Entertainment,4:25 PM,moderate
+27,Female,India,True,False,Facebook,moderate,Jokes/Memes,moderate,Night,9,Habit,10:15 PM,extreme
+47,Female,Mexico,False,True,Instagram,moderate,Vlogs,moderate,Morning,3,Procrastination,9:55 AM,low
+62,Female,India,False,True,TikTok,less,Vlogs,less,Evening,5,Boredom,4:25 PM,moderate
+22,Other,Mexico,False,True,YouTube,less,Life Hacks,less,Afternoon,6,Entertainment,5:45 PM,moderate
+50,Male,India,True,True,Facebook,less,Trends,high,Evening,5,Entertainment,4:25 PM,moderate
+18,Male,United States,False,False,Instagram,less,Vlogs,high,Afternoon,6,Boredom,5:45 PM,moderate
+35,Other,United States,True,True,Instagram,high,Pranks,high,Afternoon,6,Boredom,5:45 PM,moderate
+49,Female,United States,False,False,Instagram,less,Gaming,moderate,Afternoon,6,Boredom,5:45 PM,moderate
+64,Female,Mexico,False,True,Facebook,moderate,Life Hacks,moderate,Evening,5,Procrastination,4:25 PM,moderate
+28,Female,Pakistan,True,False,YouTube,moderate,ASMR,high,Evening,5,Entertainment,4:25 PM,moderate
+38,Female,United States,True,True,TikTok,high,Trends,high,Night,9,Habit,10:15 PM,extreme
+43,Female,Germany,True,False,YouTube,less,Pranks,less,Afternoon,6,Habit,5:00 PM,moderate
+42,Male,United States,True,True,Instagram,moderate,ASMR,less,Afternoon,6,Habit,5:00 PM,moderate
+39,Male,India,False,False,Instagram,moderate,Trends,less,Afternoon,6,Boredom,5:00 PM,moderate
+44,Female,Barzil,True,True,TikTok,moderate,Vlogs,moderate,Evening,5,Boredom,2:00 PM,moderate
+30,Other,India,False,False,YouTube,less,Pranks,less,Evening,5,Entertainment,2:00 PM,moderate
+50,Male,Vietnam,True,True,Instagram,moderate,Comedy,moderate,Morning,3,Habit,8:00 AM,low
+51,Female,India,False,False,Instagram,less,Trends,moderate,Night,9,Entertainment,9:00 PM,extreme
+58,Other,Germany,False,True,YouTube,high,Gaming,moderate,Evening,5,Boredom,2:00 PM,moderate
+52,Male,Pakistan,False,False,Instagram,high,Entertainment,less,Afternoon,6,Entertainment,5:00 PM,moderate
+18,Other,United States,True,True,YouTube,moderate,Life Hacks,less,Evening,5,Boredom,2:00 PM,moderate
+38,Female,United States,True,False,Instagram,less,Gaming,moderate,Afternoon,7,Boredom,5:00 PM,high
+23,Male,Indonesia,True,True,YouTube,high,Gaming,high,Night,1,Habit,9:00 PM,no addiction
+45,Female,Mexico,False,True,TikTok,high,ASMR,less,Evening,7,Habit,2:00 PM,high
+34,Female,Pakistan,True,True,Instagram,moderate,ASMR,less,Evening,1,Entertainment,2:00 PM,no addiction
+22,Other,Indonesia,True,True,TikTok,high,Entertainment,moderate,Afternoon,7,Habit,5:00 PM,high
+48,Male,Vietnam,False,False,Instagram,moderate,Life Hacks,less,Evening,7,Habit,2:00 PM,high
+22,Female,India,False,True,Instagram,less,Trends,moderate,Afternoon,2,Habit,5:00 PM,no addiction
+55,Female,Mexico,True,False,Facebook,high,Life Hacks,less,Afternoon,4,Habit,5:00 PM,low
+20,Male,Mexico,False,True,YouTube,high,Pranks,moderate,Evening,2,Boredom,2:00 PM,no addiction
+40,Male,Japan,False,False,TikTok,less,Entertainment,high,Evening,4,Habit,2:00 PM,low
+54,Female,Japan,True,True,TikTok,high,Pranks,high,Night,2,Boredom,9:00 PM,no addiction
+54,Male,India,False,False,TikTok,high,Pranks,moderate,Morning,2,Procrastination,8:00 AM,no addiction
+27,Female,India,True,True,YouTube,high,Pranks,high,Morning,2,Boredom,8:00 AM,no addiction
+27,Male,India,True,False,Facebook,less,Entertainment,moderate,Evening,4,Boredom,2:00 PM,low
+36,Male,India,False,True,TikTok,moderate,Entertainment,less,Afternoon,2,Boredom,5:00 PM,no addiction
+34,Male,United States,True,False,YouTube,high,Gaming,high,Afternoon,2,Entertainment,5:00 PM,no addiction
+38,Other,United States,True,True,Instagram,high,Trends,high,Night,1,Boredom,9:00 PM,no addiction
+31,Male,Japan,False,False,TikTok,high,Vlogs,moderate,Morning,4,Entertainment,8:00 AM,low
+26,Male,Japan,False,True,TikTok,less,Vlogs,moderate,Morning,4,Boredom,8:00 AM,low
+63,Female,Japan,True,False,Facebook,less,Vlogs,high,Afternoon,7,Procrastination,5:00 PM,high
+18,Female,Pakistan,False,True,TikTok,less,Gaming,high,Evening,2,Boredom,2:00 PM,no addiction
+62,Female,Barzil,False,False,TikTok,moderate,Vlogs,moderate,Morning,2,Entertainment,8:00 AM,no addiction
+30,Other,India,True,True,Instagram,moderate,Gaming,moderate,Evening,4,Boredom,2:00 PM,low
+21,Female,Pakistan,True,True,YouTube,high,Comedy,high,Night,2,Habit,9:00 PM,no addiction
+18,Male,United States,True,True,YouTube,less,Entertainment,less,Evening,7,Procrastination,2:00 PM,high
+57,Female,United States,False,True,Facebook,high,Vlogs,high,Evening,2,Boredom,2:00 PM,no addiction
+49,Male,Vietnam,True,False,Instagram,high,Life Hacks,high,Night,2,Entertainment,9:00 PM,no addiction
+51,Male,Germany,False,True,YouTube,high,Jokes/Memes,high,Afternoon,1,Procrastination,5:00 PM,no addiction
+45,Male,Mexico,True,False,Instagram,high,Life Hacks,high,Night,4,Habit,9:00 PM,low
+48,Male,India,False,True,YouTube,high,Jokes/Memes,moderate,Night,7,Habit,9:00 PM,high
+25,Male,Indonesia,True,False,Instagram,moderate,Pranks,high,Afternoon,2,Boredom,5:00 PM,no addiction
+56,Male,Philippines,True,True,Facebook,less,ASMR,high,Afternoon,2,Habit,5:00 PM,no addiction
+43,Male,United States,True,False,TikTok,less,Jokes/Memes,moderate,Night,7,Boredom,9:00 PM,high
+51,Female,Vietnam,False,True,Facebook,high,Trends,high,Morning,7,Entertainment,8:00 AM,high
+20,Female,India,True,False,YouTube,less,ASMR,high,Night,4,Boredom,9:00 PM,low
+29,Other,Germany,True,True,Facebook,moderate,Vlogs,high,Evening,7,Habit,2:00 PM,high
+18,Female,Pakistan,True,False,TikTok,high,Vlogs,high,Afternoon,4,Habit,5:00 PM,low
+61,Other,India,False,True,Facebook,moderate,Jokes/Memes,high,Afternoon,2,Entertainment,5:00 PM,no addiction
+22,Male,Mexico,True,False,YouTube,moderate,Life Hacks,less,Evening,2,Entertainment,2:00 PM,no addiction
+47,Male,India,False,True,YouTube,moderate,Jokes/Memes,moderate,Night,1,Habit,9:00 PM,no addiction
+47,Male,Barzil,True,False,Facebook,moderate,Gaming,moderate,Night,7,Procrastination,9:00 PM,high
+34,Male,Japan,True,True,TikTok,moderate,Jokes/Memes,high,Night,2,Entertainment,9:00 PM,no addiction
+64,Other,Japan,True,False,Facebook,high,Pranks,moderate,Evening,2,Entertainment,2:00 PM,no addiction
+40,Female,Mexico,False,True,TikTok,less,Jokes/Memes,less,Afternoon,4,Habit,5:00 PM,low
+32,Female,Germany,False,True,Instagram,less,Gaming,high,Afternoon,7,Entertainment,5:00 PM,high
+54,Male,Vietnam,True,True,TikTok,moderate,Pranks,high,Night,2,Habit,9:00 PM,no addiction
+38,Male,Pakistan,False,True,Instagram,moderate,Life Hacks,moderate,Morning,4,Habit,8:00 AM,low
+31,Male,Japan,False,False,Facebook,less,Jokes/Memes,less,Evening,4,Habit,2:00 PM,low
+19,Male,India,True,True,TikTok,high,Pranks,less,Evening,2,Entertainment,2:00 PM,no addiction
+28,Female,Indonesia,True,False,Instagram,less,Gaming,moderate,Evening,2,Entertainment,2:00 PM,no addiction
+56,Other,United States,True,True,Instagram,moderate,Trends,moderate,Night,4,Boredom,9:00 PM,low
+55,Male,United States,True,False,Instagram,less,Vlogs,less,Afternoon,2,Entertainment,5:00 PM,no addiction
+51,Male,United States,True,True,YouTube,less,Life Hacks,high,Evening,7,Boredom,2:00 PM,high
+55,Male,Vietnam,True,False,Facebook,moderate,Jokes/Memes,high,Night,4,Entertainment,9:00 PM,low
+51,Male,India,False,True,Instagram,less,Pranks,less,Morning,4,Habit,8:00 AM,low
+35,Male,India,False,False,TikTok,high,Jokes/Memes,less,Evening,7,Habit,2:00 PM,high
+47,Male,Mexico,True,True,Instagram,less,Jokes/Memes,high,Night,7,Entertainment,9:00 PM,high
+32,Female,United States,False,False,YouTube,moderate,Comedy,high,Evening,4,Entertainment,2:00 PM,low
+44,Female,India,False,True,Facebook,less,Life Hacks,moderate,Afternoon,4,Boredom,5:00 PM,low
+51,Other,Pakistan,False,False,YouTube,moderate,Jokes/Memes,moderate,Night,2,Boredom,9:00 PM,no addiction
+55,Female,Barzil,False,True,YouTube,less,Gaming,high,Night,2,Habit,9:00 PM,no addiction
+50,Male,Barzil,True,False,YouTube,moderate,ASMR,less,Morning,4,Procrastination,8:00 AM,low
+41,Male,India,False,True,TikTok,high,Life Hacks,moderate,Evening,4,Boredom,2:00 PM,low
+32,Male,Vietnam,False,False,Facebook,less,Jokes/Memes,moderate,Afternoon,2,Habit,5:00 PM,no addiction
+47,Male,Japan,False,True,Facebook,high,Life Hacks,high,Evening,2,Boredom,2:00 PM,no addiction
+59,Female,India,True,True,TikTok,less,Entertainment,high,Night,7,Entertainment,9:00 PM,high
+34,Female,United States,True,True,Facebook,less,Entertainment,less,Morning,2,Entertainment,8:00 AM,no addiction
+22,Female,Philippines,True,True,YouTube,moderate,Life Hacks,less,Evening,4,Habit,2:00 PM,low
+46,Male,United States,True,False,Facebook,high,ASMR,less,Evening,7,Boredom,2:00 PM,high
+21,Female,Mexico,True,True,TikTok,high,Jokes/Memes,moderate,Afternoon,2,Entertainment,5:00 PM,no addiction
+27,Other,Mexico,True,False,YouTube,high,Pranks,less,Evening,7,Procrastination,2:00 PM,high
+34,Male,Barzil,False,True,TikTok,moderate,Life Hacks,less,Evening,7,Procrastination,2:00 PM,high
+27,Male,Barzil,False,False,Instagram,moderate,Gaming,less,Evening,7,Boredom,2:00 PM,high
+34,Male,Vietnam,True,True,YouTube,less,Pranks,less,Evening,7,Entertainment,2:00 PM,high
+37,Male,Germany,True,False,YouTube,moderate,Pranks,moderate,Evening,4,Boredom,2:00 PM,low
+41,Male,Indonesia,True,True,Facebook,high,Gaming,moderate,Night,2,Entertainment,9:00 PM,no addiction
+22,Other,Indonesia,True,False,YouTube,moderate,Gaming,less,Evening,7,Boredom,2:00 PM,high
+51,Female,Germany,True,True,TikTok,high,Jokes/Memes,less,Evening,2,Habit,2:00 PM,no addiction
+23,Female,Japan,False,False,Facebook,high,Jokes/Memes,high,Evening,4,Habit,2:00 PM,low
+19,Male,Indonesia,True,True,Instagram,high,Vlogs,high,Night,2,Boredom,9:00 PM,no addiction
+30,Male,Vietnam,True,False,TikTok,less,Jokes/Memes,moderate,Afternoon,4,Entertainment,5:00 PM,low
+60,Female,Philippines,True,True,Instagram,high,Life Hacks,high,Morning,7,Habit,8:00 AM,high
+60,Male,Philippines,True,False,Instagram,less,Jokes/Memes,high,Night,7,Procrastination,9:00 PM,high
+28,Female,India,True,True,Instagram,less,Trends,moderate,Afternoon,7,Boredom,5:00 PM,high
+64,Female,India,True,False,YouTube,high,Jokes/Memes,moderate,Afternoon,7,Boredom,5:00 PM,high
+40,Male,Philippines,True,True,TikTok,high,Gaming,high,Night,7,Entertainment,9:00 PM,high
+33,Female,United States,True,True,TikTok,high,Gaming,less,Afternoon,7,Habit,5:00 PM,high
+48,Other,United States,False,True,YouTube,moderate,Comedy,high,Evening,4,Habit,2:00 PM,low
+28,Male,Germany,False,True,Facebook,moderate,Vlogs,moderate,Night,7,Boredom,9:00 PM,high
+33,Other,India,False,False,Instagram,moderate,ASMR,moderate,Evening,7,Habit,2:00 PM,high
+25,Other,India,True,True,TikTok,less,Pranks,high,Evening,7,Boredom,2:00 PM,high
+21,Male,Barzil,True,False,YouTube,moderate,Pranks,less,Night,2,Boredom,9:00 PM,no addiction
+57,Other,Mexico,True,True,Instagram,less,Vlogs,high,Afternoon,1,Habit,5:00 PM,no addiction
+21,Female,Vietnam,False,False,Facebook,high,Jokes/Memes,moderate,Afternoon,2,Procrastination,5:00 PM,no addiction
+42,Female,Philippines,True,True,Facebook,high,Vlogs,less,Night,4,Habit,9:00 PM,low
+20,Female,Indonesia,True,False,Instagram,moderate,Entertainment,high,Night,7,Habit,9:00 PM,high
+49,Male,Germany,True,True,Facebook,high,Jokes/Memes,less,Evening,2,Boredom,2:00 PM,no addiction
+20,Other,United States,True,False,TikTok,moderate,Trends,less,Evening,4,Entertainment,2:00 PM,low
+44,Male,Philippines,False,True,TikTok,high,Entertainment,high,Night,7,Habit,9:00 PM,high
+46,Female,India,True,False,TikTok,less,Gaming,less,Morning,7,Boredom,8:00 AM,high
+49,Other,Mexico,True,True,Facebook,less,Jokes/Memes,moderate,Evening,7,Habit,2:00 PM,high
+36,Other,India,True,False,TikTok,less,Life Hacks,moderate,Night,7,Habit,9:00 PM,high
+38,Male,Indonesia,False,True,YouTube,less,Pranks,high,Evening,2,Habit,2:00 PM,no addiction
+22,Male,India,False,False,TikTok,high,Jokes/Memes,moderate,Evening,7,Boredom,2:00 PM,high
+35,Female,Barzil,False,True,TikTok,less,Jokes/Memes,high,Morning,7,Entertainment,8:00 AM,high
+45,Male,Philippines,True,False,Facebook,moderate,Trends,high,Afternoon,2,Entertainment,5:00 PM,no addiction
+59,Male,Barzil,False,True,TikTok,high,Life Hacks,less,Evening,7,Habit,2:00 PM,high
+39,Male,Vietnam,True,True,Instagram,high,Pranks,high,Night,7,Habit,9:00 PM,high
+38,Male,Japan,True,True,YouTube,less,Jokes/Memes,moderate,Evening,2,Entertainment,2:00 PM,no addiction
+23,Female,United States,True,True,Facebook,high,Entertainment,high,Evening,2,Entertainment,2:00 PM,no addiction
+18,Other,Mexico,True,False,YouTube,moderate,Jokes/Memes,high,Morning,2,Entertainment,8:00 AM,no addiction
+22,Female,Pakistan,True,True,Instagram,high,Trends,moderate,Night,7,Entertainment,9:00 PM,high
+58,Other,Pakistan,False,False,Facebook,high,Pranks,moderate,Evening,7,Habit,2:00 PM,high
+29,Other,Mexico,True,True,Facebook,less,Gaming,moderate,Afternoon,2,Procrastination,5:00 PM,no addiction
+43,Male,India,False,False,TikTok,moderate,Gaming,high,Morning,2,Boredom,8:00 AM,no addiction
+63,Male,Vietnam,False,True,YouTube,moderate,Life Hacks,moderate,Afternoon,2,Habit,5:00 PM,no addiction
+51,Male,United States,False,False,Instagram,high,Gaming,high,Afternoon,7,Habit,5:00 PM,high
+31,Male,India,True,True,Instagram,moderate,Entertainment,moderate,Night,7,Habit,9:00 PM,high
+43,Female,India,True,False,Facebook,high,Trends,less,Morning,7,Boredom,8:00 AM,high
+62,Other,United States,True,True,TikTok,moderate,Jokes/Memes,high,Night,2,Procrastination,9:00 PM,no addiction
+44,Male,Mexico,True,False,Facebook,less,Vlogs,moderate,Morning,2,Entertainment,8:00 AM,no addiction
+26,Male,India,True,True,Facebook,moderate,Gaming,less,Evening,7,Procrastination,2:00 PM,high
+43,Other,Pakistan,False,False,Facebook,high,Vlogs,high,Evening,2,Habit,2:00 PM,no addiction
+64,Male,India,False,True,Facebook,high,Life Hacks,less,Morning,7,Habit,8:00 AM,high
+39,Male,Germany,True,False,Instagram,high,Vlogs,less,Night,7,Procrastination,9:00 PM,high
+64,Male,Japan,True,True,Instagram,less,Gaming,less,Night,4,Entertainment,9:00 PM,low
+47,Female,Pakistan,True,False,Facebook,less,Entertainment,moderate,Afternoon,2,Entertainment,5:00 PM,no addiction
+60,Male,United States,False,True,Facebook,high,Vlogs,moderate,Evening,2,Procrastination,2:00 PM,no addiction
+34,Other,Barzil,False,True,TikTok,less,Vlogs,high,Evening,7,Entertainment,2:00 PM,high
+43,Other,Germany,True,True,Facebook,less,Trends,moderate,Night,7,Boredom,9:00 PM,high
+53,Other,Germany,False,True,Instagram,high,Entertainment,moderate,Evening,4,Entertainment,2:00 PM,low
+18,Female,India,False,False,YouTube,moderate,Trends,high,Night,4,Procrastination,9:00 PM,low
+25,Female,Japan,True,True,Instagram,moderate,ASMR,moderate,Night,2,Habit,9:00 PM,no addiction
+52,Male,Philippines,True,False,TikTok,less,Vlogs,less,Night,7,Entertainment,9:00 PM,high
+32,Female,Japan,False,True,Instagram,less,Vlogs,less,Evening,7,Entertainment,2:00 PM,high
+64,Female,United States,True,False,YouTube,high,Jokes/Memes,less,Afternoon,1,Habit,5:00 PM,no addiction
+39,Female,United States,True,True,Facebook,high,Vlogs,moderate,Afternoon,4,Habit,5:00 PM,low
+31,Male,Indonesia,True,False,YouTube,less,Gaming,moderate,Evening,4,Entertainment,2:00 PM,low
+43,Female,Pakistan,True,True,Facebook,high,Pranks,high,Night,2,Habit,9:00 PM,no addiction
+45,Male,Pakistan,False,False,Facebook,high,ASMR,high,Afternoon,2,Boredom,5:00 PM,no addiction
+40,Male,Pakistan,False,True,Instagram,high,ASMR,high,Evening,7,Habit,2:00 PM,high
+31,Male,Indonesia,False,False,Instagram,less,Jokes/Memes,moderate,Afternoon,1,Boredom,5:00 PM,no addiction
+41,Male,Vietnam,False,True,Instagram,less,Jokes/Memes,less,Morning,2,Boredom,8:00 AM,no addiction
+19,Other,India,False,False,TikTok,high,Life Hacks,high,Night,7,Entertainment,9:00 PM,high
+62,Male,Japan,False,True,Instagram,high,Pranks,high,Evening,1,Procrastination,2:00 PM,no addiction
+43,Male,India,True,False,TikTok,less,Trends,less,Afternoon,2,Entertainment,5:00 PM,no addiction
+31,Female,United States,True,True,Instagram,less,Gaming,less,Night,2,Boredom,9:00 PM,no addiction
+24,Female,Japan,True,False,Facebook,high,Trends,less,Evening,4,Procrastination,2:00 PM,low
+20,Other,United States,False,True,TikTok,less,Life Hacks,high,Afternoon,7,Procrastination,5:00 PM,high
+64,Female,Germany,True,True,YouTube,moderate,ASMR,high,Morning,2,Boredom,8:00 AM,no addiction
+40,Other,India,True,True,TikTok,high,Jokes/Memes,less,Evening,4,Entertainment,2:00 PM,low
+63,Female,Barzil,False,True,TikTok,high,Trends,high,Evening,7,Entertainment,2:00 PM,high
+60,Other,Indonesia,True,False,YouTube,high,Comedy,less,Afternoon,4,Habit,5:00 PM,low
+64,Female,Mexico,False,True,TikTok,moderate,Jokes/Memes,high,Afternoon,7,Boredom,5:00 PM,high
+62,Female,India,True,False,Facebook,high,Pranks,high,Night,7,Habit,9:00 PM,high
+35,Female,United States,True,True,Instagram,moderate,Life Hacks,moderate,Evening,2,Entertainment,2:00 PM,no addiction
+55,Female,Pakistan,True,False,YouTube,less,Pranks,less,Evening,2,Boredom,2:00 PM,no addiction
+52,Female,United States,False,True,Instagram,moderate,Pranks,less,Night,4,Boredom,9:00 PM,low
+32,Male,Philippines,True,False,Facebook,less,Life Hacks,high,Afternoon,4,Boredom,5:00 PM,low
+42,Male,United States,True,True,YouTube,high,Trends,moderate,Afternoon,7,Habit,5:00 PM,high
+54,Male,United States,True,False,Instagram,moderate,Life Hacks,high,Night,2,Habit,9:00 PM,no addiction
+45,Male,Pakistan,True,True,Instagram,less,Jokes/Memes,moderate,Afternoon,2,Habit,5:00 PM,no addiction
+27,Male,Mexico,True,False,Facebook,high,Gaming,high,Evening,4,Habit,2:00 PM,low
+56,Other,Indonesia,True,True,Instagram,moderate,Comedy,high,Evening,2,Boredom,2:00 PM,no addiction
+34,Male,India,True,False,Facebook,high,Jokes/Memes,high,Morning,2,Habit,8:00 AM,moderate
+56,Other,Pakistan,False,True,TikTok,high,ASMR,high,Morning,4,Habit,8:00 AM,low
+39,Male,United States,False,False,Facebook,high,Jokes/Memes,moderate,Evening,4,Entertainment,2:00 PM,low
+43,Male,Indonesia,False,True,TikTok,less,Life Hacks,high,Afternoon,4,Entertainment,5:00 PM,low
+61,Female,United States,True,False,YouTube,moderate,Gaming,high,Morning,7,Habit,8:00 AM,high
+42,Female,Indonesia,True,True,Instagram,moderate,Trends,less,Night,7,Habit,9:00 PM,high
+34,Female,Mexico,True,True,Facebook,high,ASMR,less,Afternoon,2,Habit,5:00 PM,no addiction
+30,Female,Barzil,False,True,Facebook,high,Vlogs,high,Morning,7,Habit,8:00 AM,high
+37,Other,United States,True,True,Instagram,moderate,Jokes/Memes,moderate,Afternoon,2,Entertainment,5:00 PM,no addiction
+42,Female,Pakistan,False,False,Instagram,less,Life Hacks,high,Evening,1,Boredom,2:00 PM,no addiction
+21,Other,Indonesia,False,True,YouTube,high,Jokes/Memes,less,Night,2,Habit,9:00 PM,no addiction
+27,Male,United States,False,False,YouTube,moderate,Life Hacks,high,Night,4,Entertainment,9:00 PM,low
+20,Male,Vietnam,True,True,Facebook,high,Vlogs,high,Evening,4,Entertainment,2:00 PM,low
+58,Female,Japan,True,False,YouTube,high,Life Hacks,high,Morning,2,Boredom,8:00 AM,no addiction
+62,Female,Philippines,False,True,TikTok,high,Trends,moderate,Evening,2,Entertainment,2:00 PM,no addiction
+35,Other,United States,True,False,YouTube,high,Vlogs,less,Night,2,Habit,9:00 PM,no addiction
+64,Female,India,True,True,YouTube,less,Trends,moderate,Evening,2,Entertainment,2:00 PM,no addiction
+53,Other,Barzil,False,False,Facebook,moderate,Entertainment,less,Evening,7,Boredom,2:00 PM,high
+64,Female,Barzil,True,True,TikTok,high,Life Hacks,moderate,Evening,2,Habit,2:00 PM,no addiction
+39,Male,United States,True,False,YouTube,less,Life Hacks,high,Night,4,Habit,10:15 PM,low
+51,Male,Philippines,True,True,TikTok,moderate,Pranks,high,Afternoon,1,Boredom,5:45 PM,no addiction
+64,Female,India,False,False,TikTok,high,Jokes/Memes,less,Evening,1,Entertainment,4:25 PM,no addiction
+25,Female,Mexico,False,True,TikTok,moderate,Jokes/Memes,moderate,Evening,1,Habit,4:25 PM,no addiction
+57,Other,United States,True,False,Instagram,less,Pranks,high,Night,2,Entertainment,10:15 PM,no addiction
+61,Male,Pakistan,False,True,Instagram,high,Entertainment,high,Evening,2,Habit,4:25 PM,no addiction
+36,Female,Barzil,False,False,Instagram,moderate,Jokes/Memes,high,Afternoon,2,Entertainment,5:45 PM,no addiction
+59,Other,United States,True,True,Instagram,high,Trends,moderate,Evening,4,Procrastination,4:25 PM,low
+58,Female,United States,False,True,Facebook,moderate,Life Hacks,moderate,Evening,2,Entertainment,4:25 PM,no addiction
+54,Female,Mexico,False,True,YouTube,less,Life Hacks,moderate,Night,2,Entertainment,10:15 PM,no addiction
+23,Male,Mexico,True,True,Instagram,less,Jokes/Memes,less,Evening,2,Procrastination,4:25 PM,no addiction
+43,Male,India,False,False,Facebook,high,Gaming,less,Afternoon,7,Habit,5:45 PM,high
+51,Male,India,True,True,YouTube,high,Jokes/Memes,less,Afternoon,1,Habit,5:45 PM,no addiction
+62,Male,India,True,False,Instagram,high,Jokes/Memes,high,Evening,2,Habit,4:25 PM,no addiction
+23,Female,Vietnam,False,True,YouTube,moderate,Life Hacks,high,Afternoon,2,Habit,5:45 PM,no addiction
+54,Male,Vietnam,True,False,Instagram,less,Jokes/Memes,high,Night,1,Boredom,10:15 PM,no addiction
+50,Other,India,False,True,Facebook,less,Pranks,moderate,Evening,2,Procrastination,4:25 PM,no addiction
+39,Female,India,True,False,TikTok,moderate,Gaming,high,Evening,7,Boredom,4:25 PM,high
+38,Male,India,True,True,TikTok,moderate,Jokes/Memes,less,Afternoon,7,Habit,5:45 PM,high
+23,Male,Indonesia,True,False,YouTube,less,Jokes/Memes,moderate,Afternoon,2,Procrastination,5:45 PM,no addiction
+23,Male,Mexico,True,True,Facebook,moderate,Trends,less,Afternoon,7,Habit,5:45 PM,high
+21,Male,Philippines,True,False,TikTok,moderate,Pranks,less,Afternoon,2,Boredom,5:45 PM,no addiction
+47,Female,Vietnam,False,True,Instagram,moderate,Vlogs,high,Evening,7,Habit,4:25 PM,high
+28,Female,Pakistan,True,False,TikTok,less,ASMR,less,Night,2,Entertainment,10:15 PM,no addiction
+47,Other,Indonesia,False,True,YouTube,high,ASMR,less,Evening,2,Habit,4:25 PM,no addiction
+48,Female,United States,False,False,YouTube,high,ASMR,high,Afternoon,4,Habit,5:45 PM,low
+41,Male,United States,True,True,Facebook,high,ASMR,moderate,Night,2,Boredom,10:15 PM,no addiction
+26,Other,India,True,False,YouTube,moderate,Life Hacks,high,Afternoon,2,Boredom,5:45 PM,no addiction
+20,Male,Philippines,True,True,TikTok,high,Gaming,moderate,Evening,2,Boredom,4:25 PM,no addiction
+48,Male,United States,True,True,TikTok,less,Life Hacks,less,Evening,7,Entertainment,4:25 PM,high
+57,Male,Barzil,True,True,TikTok,less,Pranks,high,Night,2,Boredom,10:15 PM,no addiction
+54,Male,India,False,True,TikTok,high,Pranks,less,Night,1,Habit,10:15 PM,no addiction
+53,Female,Barzil,False,False,Facebook,moderate,Trends,high,Evening,7,Boredom,4:25 PM,high
+41,Female,India,True,True,Instagram,moderate,Comedy,less,Night,7,Boredom,10:15 PM,high
+48,Male,India,True,False,Instagram,moderate,Entertainment,high,Evening,7,Habit,4:25 PM,high
+23,Male,United States,True,True,Facebook,high,Vlogs,less,Evening,2,Entertainment,4:25 PM,no addiction
+19,Male,India,False,False,YouTube,high,Pranks,high,Evening,4,Entertainment,4:25 PM,low
+37,Male,Germany,True,True,Instagram,less,Jokes/Memes,moderate,Afternoon,2,Habit,5:45 PM,no addiction
+45,Other,Vietnam,True,False,YouTube,moderate,Vlogs,moderate,Morning,2,Boredom,9:55 AM,no addiction
+28,Male,Germany,True,True,Instagram,high,Life Hacks,high,Evening,2,Habit,4:25 PM,no addiction
+21,Female,Germany,True,False,YouTube,high,Life Hacks,high,Afternoon,7,Boredom,5:45 PM,high
+32,Male,Japan,True,True,Facebook,moderate,Pranks,high,Afternoon,7,Procrastination,5:45 PM,high
+23,Other,Vietnam,False,False,TikTok,less,Trends,moderate,Afternoon,2,Habit,5:45 PM,no addiction
+47,Male,Indonesia,False,True,YouTube,less,Gaming,high,Evening,7,Boredom,4:25 PM,high
+55,Female,Philippines,False,False,TikTok,high,Entertainment,less,Afternoon,7,Boredom,5:45 PM,high
+19,Male,India,True,True,YouTube,less,Gaming,less,Night,7,Entertainment,10:15 PM,high
+32,Female,India,False,False,YouTube,moderate,ASMR,less,Night,7,Habit,10:15 PM,high
+28,Male,Indonesia,True,True,YouTube,less,Life Hacks,moderate,Evening,4,Habit,4:25 PM,low
+25,Female,United States,False,False,YouTube,high,Gaming,less,Morning,2,Boredom,9:55 AM,low
+43,Female,United States,True,True,YouTube,less,Entertainment,moderate,Night,2,Habit,10:15 PM,no addiction
+62,Female,Germany,True,True,TikTok,less,Gaming,less,Night,1,Entertainment,10:15 PM,no addiction
+61,Other,Indonesia,False,True,YouTube,moderate,Entertainment,high,Evening,7,Boredom,4:25 PM,high
+22,Female,Vietnam,True,True,TikTok,moderate,Jokes/Memes,less,Night,2,Entertainment,10:15 PM,no addiction
+23,Female,Germany,True,False,Facebook,moderate,Jokes/Memes,less,Night,4,Habit,10:15 PM,low
+43,Female,Barzil,True,True,Instagram,moderate,Vlogs,moderate,Night,4,Boredom,10:15 PM,low
+21,Male,Japan,True,False,YouTube,less,ASMR,high,Evening,2,Boredom,4:25 PM,no addiction
+36,Male,Pakistan,True,True,Instagram,high,Entertainment,moderate,Evening,7,Habit,4:25 PM,high
+37,Male,United States,False,False,TikTok,less,Pranks,moderate,Evening,7,Procrastination,4:25 PM,high
+50,Female,Japan,False,True,Facebook,moderate,Jokes/Memes,moderate,Morning,2,Habit,9:55 AM,no addiction
+37,Female,United States,False,False,Facebook,moderate,Gaming,moderate,Evening,7,Habit,4:25 PM,high
+29,Male,Philippines,False,True,Facebook,moderate,Gaming,moderate,Evening,1,Boredom,4:25 PM,no addiction
+64,Female,Pakistan,True,False,Instagram,moderate,Life Hacks,less,Evening,2,Boredom,4:25 PM,no addiction
+18,Female,India,True,True,TikTok,high,Life Hacks,moderate,Afternoon,4,Boredom,5:45 PM,low
+43,Female,India,True,False,YouTube,high,ASMR,less,Evening,4,Procrastination,4:25 PM,low
+31,Female,Philippines,True,True,YouTube,less,Gaming,less,Night,4,Habit,10:15 PM,low
+55,Female,Germany,True,False,TikTok,moderate,Trends,high,Night,7,Boredom,10:15 PM,high
+54,Other,India,True,True,Instagram,high,Jokes/Memes,less,Night,2,Boredom,10:15 PM,no addiction
+28,Female,Indonesia,True,False,YouTube,less,Life Hacks,high,Evening,4,Entertainment,4:25 PM,low
+53,Male,Philippines,False,True,TikTok,high,Vlogs,less,Morning,4,Habit,9:55 AM,low
+30,Male,Indonesia,True,False,YouTube,high,Trends,high,Evening,4,Boredom,4:25 PM,low
+60,Female,India,True,True,Facebook,less,Jokes/Memes,less,Afternoon,7,Habit,5:45 PM,high
+20,Other,Germany,True,True,YouTube,moderate,Vlogs,less,Afternoon,2,Boredom,5:45 PM,no addiction
+50,Male,Philippines,True,True,Instagram,less,Life Hacks,less,Night,2,Procrastination,10:15 PM,no addiction
+23,Female,India,True,True,TikTok,high,ASMR,less,Night,2,Habit,10:15 PM,no addiction
+27,Male,United States,True,False,Instagram,high,Jokes/Memes,high,Night,2,Procrastination,10:15 PM,no addiction
+22,Male,India,True,True,TikTok,moderate,Gaming,moderate,Afternoon,1,Procrastination,5:45 PM,no addiction
+40,Female,Pakistan,False,False,Facebook,high,Life Hacks,less,Night,2,Boredom,10:15 PM,no addiction
+27,Male,India,True,True,TikTok,moderate,Pranks,high,Night,1,Procrastination,10:15 PM,no addiction
+61,Male,Pakistan,True,False,YouTube,moderate,Life Hacks,less,Night,7,Procrastination,10:15 PM,high
+19,Male,India,True,True,YouTube,moderate,Pranks,high,Evening,4,Procrastination,4:25 PM,low
